@@ -1,0 +1,1135 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Audacity",
+          "description": "a free, cross-platform digital audio editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T16:41:02Z",
+            "owner": "audacity",
+            "repo": "audacity",
+            "stars": 17559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenUtau",
+          "description": "A free, cross-platform singing voice synthesis framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-02T02:28:22Z",
+            "owner": "openutau",
+            "repo": "OpenUtau",
+            "stars": 4184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stargate DAW",
+          "description": "A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-21T17:51:22Z",
+            "owner": "stargatedaw",
+            "repo": "stargate",
+            "stars": 869
+          }
+        }
+      ],
+      "title": "Audio Editing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "howler.js",
+          "description": "a Javascript audio library for the modern web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-23T23:49:01Z",
+            "owner": "goldfire",
+            "repo": "howler.js",
+            "stars": 25332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Librosa",
+          "description": "a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T15:56:54Z",
+            "owner": "librosa",
+            "repo": "librosa",
+            "stars": 8555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "midi.js",
+          "description": "a framework for creating web-based MIDI apps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-06-16T06:45:24Z",
+            "owner": "mudcube",
+            "repo": "MIDI.js",
+            "stars": 3926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audioFlux",
+          "description": "A library for audio and music analysis, feature extraction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-06T04:12:17Z",
+            "owner": "libAudioFlux",
+            "repo": "audioFlux",
+            "stars": 3350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audio.js",
+          "description": "audio.js is a drop-in javascript library that allows HTML5's <audio> tag to be used anywhere.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-25T12:29:23Z",
+            "owner": "kolber",
+            "repo": "audiojs",
+            "stars": 2084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chord-mark",
+          "description": "reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-13T20:48:51Z",
+            "owner": "no-chris",
+            "repo": "chord-mark",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mxml",
+          "description": "MusicXML parsing and layout library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-10-22T20:00:49Z",
+            "owner": "Reinvent-Archived-Projects",
+            "repo": "mxml",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Audio Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Koel",
+          "description": "an open-source personal audio streaming server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T20:49:05Z",
+            "owner": "koel",
+            "repo": "koel",
+            "stars": 17218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matchering",
+          "description": "сontainerized web application and library for automated reference audio mastering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T14:37:52Z",
+            "owner": "sergree",
+            "repo": "matchering",
+            "stars": 2605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fre:ac",
+          "description": "free audio converter. It supports audio CD ripping and tag editing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-19T17:29:54Z",
+            "owner": "enzo1982",
+            "repo": "freac",
+            "stars": 1937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whipper",
+          "description": "Python CD-DA ripper preferring accuracy over speed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-17T22:33:18Z",
+            "owner": "whipper-team",
+            "repo": "whipper",
+            "stars": 1399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kima",
+          "description": "a self-hosted music streaming server with ML-powered audio analysis, vibe-based discovery, and Subsonic API support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-24T03:58:35Z",
+            "owner": "Chevron7Locked",
+            "repo": "kima-hub",
+            "stars": 1188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cecilia",
+          "description": "a Pyo-based graphical environment for music and signal processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-10T19:21:13Z",
+            "owner": "belangeo",
+            "repo": "cecilia5",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "split2flac",
+          "description": "split flac/ape/wv/wav + cue sheet into separate tracks",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2020-05-08T20:11:32Z",
+            "owner": "ftrvxmtrx",
+            "repo": "split2flac",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "K3b",
+          "description": "is a full-featured CD/DVD/Blu-ray burning and ripping application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T04:03:28Z",
+            "owner": "KDE",
+            "repo": "k3b",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rubyripper",
+          "description": "is a secure digital audio extraction application (\"cd ripper\") for Unix-like operating systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-01-02T18:36:02Z",
+            "owner": "bleskodev",
+            "repo": "rubyripper",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lltag",
+          "description": "automatic command-line mp3/ogg/flac file tagger and renamer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2022-02-23T16:20:29Z",
+            "owner": "bgoglin",
+            "repo": "lltag",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jack",
+          "description": "command-line CD ripper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-08T21:18:24Z",
+            "owner": "jack-cli-cd-ripper",
+            "repo": "jack",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auralytics",
+          "description": "an open-source personal Spotify analytics tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-03T09:33:14Z",
+            "owner": "WengYiNing",
+            "repo": "Auralytics",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "X Audio Copy",
+          "description": "GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-31T14:59:58Z",
+            "owner": "giorgiofranceschi",
+            "repo": "xaudiocopy",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cyanrip",
+          "description": "rips and encodes standard audio CDs with the least effort required from user. Cross platform.",
+          "children": []
+        }
+      ],
+      "title": "Audio Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mutopia",
+          "description": "sheet music based on editions in the public domain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "LilyPond",
+            "last_commit": "2024-11-07T21:28:28Z",
+            "owner": "MutopiaProject",
+            "repo": "MutopiaProject",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cellist/Lilypond-Sheet-Music",
+          "description": "a collection of music typeset with lilypond (mostly chamber music and music for cello).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "LilyPond",
+            "last_commit": "2026-08-09T17:23:06Z",
+            "owner": "cellist",
+            "repo": "Lilypond-Sheet-Music",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wbsoft/lilymusic",
+          "description": "beautiful LilyPond scores under free licenses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "LilyPond",
+            "last_commit": "2022-06-05T13:09:03Z",
+            "owner": "wbsoft",
+            "repo": "lilymusic",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Éditions Nicolas Sceaux",
+          "description": "baroque music scores (mainly French music), typeset using lilypond.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "LilyPond",
+            "last_commit": "2022-03-04T11:18:29Z",
+            "owner": "nsceaux",
+            "repo": "nenuvar",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lavender Blue Open-Scores",
+          "description": "open scores for piano encoded using lilypond.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "LilyPond",
+            "last_commit": "2026-06-14T20:14:22Z",
+            "owner": "madrisan",
+            "repo": "open-scores",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ciconia/music",
+          "description": "a collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "LilyPond",
+            "last_commit": "2020-12-13T06:38:55Z",
+            "owner": "noteflakes",
+            "repo": "music",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Free Music Scores"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mido",
+          "description": "Python library for working with MIDI messages and ports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-27T13:13:18Z",
+            "owner": "mido",
+            "repo": "mido",
+            "stars": 1631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Midimonster",
+          "description": "universal control and translation tool for most show control protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-24T15:37:50Z",
+            "owner": "cbdevnet",
+            "repo": "midimonster",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JJazzLab",
+          "description": "a complete Midi-based framework for automatic backing tracks generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-05T15:32:06Z",
+            "owner": "jjazzboss",
+            "repo": "JJazzLab",
+            "stars": 584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polyrhythmix",
+          "description": "MIDI drums generator, designed for polyrhythmic parts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-07-25T07:30:10Z",
+            "owner": "dredozubov",
+            "repo": "polyrhythmix",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gingoduino",
+          "description": "music theory engine for embedded systems with MIDI 1.0/2.0 UMP support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-06T03:59:10Z",
+            "owner": "sauloverissimo",
+            "repo": "gingoduino",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mididings",
+          "description": "A Python-based MIDI router and processor for Linux and macOS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T01:02:50Z",
+            "owner": "mididings",
+            "repo": "mididings",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stagedings",
+          "description": "An UI and API for mididings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T00:06:09Z",
+            "owner": "mididings",
+            "repo": "stagedings",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "MIDI Tools & Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MuseScore",
+          "description": "free open-source music notation and composition software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T10:38:06Z",
+            "owner": "musescore",
+            "repo": "MuseScore",
+            "stars": 14975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vexflow",
+          "description": "a JavaScript library for rendering music notation and guitar tablature.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-05T22:49:21Z",
+            "owner": "0xfe",
+            "repo": "vexflow",
+            "stars": 4364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSheetMusicDisplay",
+          "description": "Typescript library for rendering MusicXML in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T16:18:14Z",
+            "owner": "opensheetmusicdisplay",
+            "repo": "opensheetmusicdisplay",
+            "stars": 1935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frescobaldi",
+          "description": "a free Lilypond sheet music editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T00:43:36Z",
+            "owner": "frescobaldi",
+            "repo": "frescobaldi",
+            "stars": 943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibMEI",
+          "description": "a C++ library for reading and writing MEI files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-02T14:21:30Z",
+            "owner": "rism-digital",
+            "repo": "verovio",
+            "stars": 909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verovio",
+          "description": "a library and a toolkit for engraving MEI music notation into SVG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-02T14:21:30Z",
+            "owner": "rism-digital",
+            "repo": "verovio",
+            "stars": 909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inknote",
+          "description": "free, open source, browser based music notation and composition software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-07-02T22:09:14Z",
+            "owner": "MichalPaszkiewicz",
+            "repo": "inknote",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenLilyLib",
+          "description": "LilyPond tools - snippets, templates, and extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "LilyPond",
+            "last_commit": "2023-04-30T12:44:13Z",
+            "owner": "openlilylib",
+            "repo": "snippets",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MusicKit",
+          "description": "Music sheet rendering for iOS and OSX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C++",
+            "last_commit": "2019-05-16T02:32:57Z",
+            "owner": "Reinvent-Archived-Projects",
+            "repo": "musickit",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lyp",
+          "description": "the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2019-04-05T20:09:21Z",
+            "owner": "noteflakes-music",
+            "repo": "lyp",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digital Music Stand",
+          "description": "a free web app for displaying sheet music.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-20T07:31:27Z",
+            "owner": "PatWie",
+            "repo": "digitalmusicstand",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ripple",
+          "description": "DRY for Lilypond - generate scores and parts with minimal fuss.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-01-25T02:59:28Z",
+            "owner": "noteflakes",
+            "repo": "ripple",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tbon",
+          "description": "Typographic Beat-Oriented Notation for music.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-01T20:47:21Z",
+            "owner": "Michael-F-Ellis",
+            "repo": "tbon",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lilyvm",
+          "description": "Lilypond version manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-05-09T00:52:38Z",
+            "owner": "olsonpm",
+            "repo": "lilyvm",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lilypond cook book",
+          "description": "tips & tricks for getting the most out of lilypond.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-01-19T12:31:12Z",
+            "owner": "noteflakes-music",
+            "repo": "lilypond-cookbook",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VectorScore",
+          "description": "Lightweight, SVG-based music notation library for TypeScript under MIT license.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-19T00:18:19Z",
+            "owner": "DrakeB1234",
+            "repo": "VectorScore",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Music Notation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Overtone",
+          "description": "an Open Source toolkit for designing synthesizers and collaborating with music.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-01-24T09:04:34Z",
+            "owner": "overtone",
+            "repo": "overtone",
+            "stars": 6211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alda",
+          "description": "a music programming language for musicians.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T23:51:18Z",
+            "owner": "alda-lang",
+            "repo": "alda",
+            "stars": 5936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orca",
+          "description": "live programming environment for music.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-16T18:19:05Z",
+            "owner": "hundredrabbits",
+            "repo": "Orca",
+            "stars": 5061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chuck",
+          "description": "strongly-timed, concurrent, and on-the-fly music programming language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-10T19:10:37Z",
+            "owner": "ccrma",
+            "repo": "chuck",
+            "stars": 1034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tuneflow-py",
+          "description": "python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-06T20:46:14Z",
+            "owner": "tuneflow",
+            "repo": "tuneflow-py",
+            "stars": 891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gwion",
+          "description": "A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-02-10T23:10:02Z",
+            "owner": "Gwion",
+            "repo": "Gwion",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leipzig",
+          "description": "a composition library for Overtone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-12-15T22:24:27Z",
+            "owner": "ctford",
+            "repo": "leipzig",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IanniX",
+          "description": "a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-25T10:42:17Z",
+            "owner": "buzzinglight",
+            "repo": "IanniX",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sardine",
+          "description": "a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-19T20:45:01Z",
+            "owner": "Bubobubobubobubo",
+            "repo": "sardine",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoffeeCollider",
+          "description": "a language for real time audio synthesis and algorithmic composition in HTML5. \"Write CoffeeScript, and be processed as SuperCollider.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-10-09T00:44:23Z",
+            "owner": "mohayonao",
+            "repo": "CoffeeCollider",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Midica",
+          "description": "MIDI programming language with decompiler and player, supports karaoke.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-08T10:12:14Z",
+            "owner": "truj",
+            "repo": "midica",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cane",
+          "description": "A small MIDI sequencer DSL designed around vectors and euclidean rhythms.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2026-02-05T20:01:17Z",
+            "owner": "tarpit-collective",
+            "repo": "cane",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slippery chicken",
+          "description": "a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-07-13T18:04:26Z",
+            "owner": "mdedwards",
+            "repo": "slippery-chicken",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DrumBeatRepo",
+          "description": "A rhythm library for playing drum beats of differents music genres in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:09:56Z",
+            "owner": "Babali42",
+            "repo": "DrumBeatRepo",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leiter",
+          "description": "TypeScript-based library designed to generate musical scales.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-14T22:45:06Z",
+            "owner": "kad1kad",
+            "repo": "leiter",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Music Programming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Audio Visualization",
+          "description": "A curated list about Audio Visualization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-06T15:11:17Z",
+            "owner": "willianjusten",
+            "repo": "awesome-audio-visualization",
+            "stars": 5060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Python for Scientific Audio",
+          "description": "A curated list of python software and packages related to scientific research in audio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-11T16:45:13Z",
+            "owner": "faroit",
+            "repo": "awesome-python-scientific-audio",
+            "stars": 1706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Music Production",
+          "description": "A curated list of software and resources to create music.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-19T18:38:38Z",
+            "owner": "ad-si",
+            "repo": "awesome-music-production",
+            "stars": 1470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Audio DSP",
+          "description": "A curated list of audio DSP and plugin development resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-03T20:51:38Z",
+            "owner": "BillyDM",
+            "repo": "awesome-audio-dsp",
+            "stars": 1409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome WebAudio",
+          "description": "A curated list of awesome WebAudio packages and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-05T01:54:36Z",
+            "owner": "notthetup",
+            "repo": "awesome-webaudio",
+            "stars": 1397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome sheet music",
+          "description": "A curated list of awesome sheet music software, libraries and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-01T11:49:07Z",
+            "owner": "ad-si",
+            "repo": "awesome-sheet-music",
+            "stars": 1018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome AI Music Generation",
+          "description": "A curated list of AI music generation tools and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-15T08:49:18Z",
+            "owner": "Curated-Awesome-Lists",
+            "repo": "awesome-ai-music-generation",
+            "stars": 484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Music Listening",
+          "description": "Awesome list of websites dedicated to listening to music.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-14T15:27:58Z",
+            "owner": "ybayle",
+            "repo": "awesome-music-listening",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Music Programming",
+          "description": "A curated collection of music programming languages, libraries, frameworks and tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-07T06:59:19Z",
+            "owner": "zoejane",
+            "repo": "awesome-music-programming",
+            "stars": 141
+          }
+        }
+      ],
+      "title": "Related lists"
+    },
+    {
+      "description": "To the extent possible under law, Sharon Rosner has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:26:32.599Z",
+    "original_repository": "noteflakes/awesome-music",
+    "original_repository_sha": "b4ce518c33188e0f49dacca6b7262c2770deaf68",
+    "enhanced_repository": "enhansome/enhansome-music",
+    "enhanced_repository_description": null,
+    "title": "Awesome Music with stars"
+  }
+}
