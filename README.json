@@ -12,10 +12,10 @@
             "archived": false,
             "id": 32921736,
             "language": "C++",
-            "last_commit": "2026-08-19T09:28:56Z",
+            "last_commit": "2026-08-19T12:26:08Z",
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 17601
+            "stars": 17602
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-07-19T17:29:54Z",
             "owner": "enzo1982",
             "repo": "freac",
-            "stars": 1940
+            "stars": 1941
           }
         },
         {
@@ -582,10 +582,10 @@
             "archived": false,
             "id": 4454793,
             "language": "C++",
-            "last_commit": "2026-08-19T07:25:16Z",
+            "last_commit": "2026-08-19T12:09:06Z",
             "owner": "musescore",
             "repo": "MuseScore",
-            "stars": 14993
+            "stars": 14994
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5064
+            "stars": 5065
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2026-07-10T19:10:37Z",
             "owner": "ccrma",
             "repo": "chuck",
-            "stars": 1036
+            "stars": 1037
           }
         },
         {
@@ -1023,7 +1023,7 @@
             "archived": false,
             "id": 732923985,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T20:44:31Z",
+            "last_commit": "2026-08-19T12:11:23Z",
             "owner": "Babali42",
             "repo": "DrumBeatRepo",
             "stars": 26
@@ -1197,8 +1197,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:47:59.811Z",
+    "last_updated": "2026-08-19T12:42:05.494Z",
     "original_repository": "noteflakes/awesome-music",
+    "original_repository_id": 47076519,
     "original_repository_sha": "b4ce518c33188e0f49dacca6b7262c2770deaf68",
     "enhanced_repository": "enhansome/enhansome-music",
     "enhanced_repository_description": null,
