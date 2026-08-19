@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32921736,
             "language": "C++",
-            "last_commit": "2026-08-18T09:38:33Z",
+            "last_commit": "2026-08-19T09:28:56Z",
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 17594
+            "stars": 17601
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27212980,
             "language": "C#",
             "last_commit": "2026-08-02T02:28:22Z",
             "owner": "openutau",
             "repo": "OpenUtau",
-            "stars": 4201
+            "stars": 4207
           }
         },
         {
@@ -38,18 +40,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 410708568,
             "language": "Python",
             "last_commit": "2025-04-21T17:51:22Z",
             "owner": "stargatedaw",
             "repo": "stargate",
-            "stars": 870
+            "stars": 871
           }
         }
       ],
       "title": "Audio Editing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7874074,
             "language": "JavaScript",
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25333
+            "stars": 25332
           }
         },
         {
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6309729,
             "language": "Python",
-            "last_commit": "2026-08-17T20:22:30Z",
+            "last_commit": "2026-08-19T02:40:10Z",
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8564
+            "stars": 8565
           }
         },
         {
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 3457006,
             "language": "JavaScript",
             "last_commit": "2024-06-16T06:45:24Z",
             "owner": "mudcube",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589514195,
             "language": "C",
             "last_commit": "2026-03-06T04:12:17Z",
             "owner": "libAudioFlux",
@@ -114,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1130400,
             "language": "JavaScript",
             "last_commit": "2018-09-25T12:29:23Z",
             "owner": "kolber",
             "repo": "audiojs",
-            "stars": 2084
+            "stars": 2085
           }
         },
         {
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177453481,
             "language": "JavaScript",
             "last_commit": "2026-07-13T20:48:51Z",
             "owner": "no-chris",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26025555,
             "language": "C++",
             "last_commit": "2018-10-22T20:00:49Z",
             "owner": "Reinvent-Archived-Projects",
@@ -153,7 +163,7 @@
       "title": "Audio Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,8 +172,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47495360,
             "language": "PHP",
-            "last_commit": "2026-08-10T20:49:05Z",
+            "last_commit": "2026-08-19T06:33:18Z",
             "owner": "koel",
             "repo": "koel",
             "stars": 17222
@@ -176,11 +187,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150785299,
             "language": "Python",
             "last_commit": "2026-07-08T14:37:52Z",
             "owner": "sergree",
             "repo": "matchering",
-            "stars": 2608
+            "stars": 2609
           }
         },
         {
@@ -190,11 +202,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100884109,
             "language": "C++",
             "last_commit": "2026-07-19T17:29:54Z",
             "owner": "enzo1982",
             "repo": "freac",
-            "stars": 1939
+            "stars": 1940
           }
         },
         {
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33631252,
             "language": "Python",
             "last_commit": "2026-02-17T22:33:18Z",
             "owner": "whipper-team",
@@ -218,11 +232,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1106802552,
             "language": "TypeScript",
             "last_commit": "2026-06-24T03:58:35Z",
             "owner": "Chevron7Locked",
             "repo": "kima-hub",
-            "stars": 1191
+            "stars": 1194
           }
         },
         {
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39092002,
             "language": "Python",
             "last_commit": "2025-05-10T19:21:13Z",
             "owner": "belangeo",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 3186642,
             "language": "Shell",
             "last_commit": "2020-05-08T20:11:32Z",
             "owner": "ftrvxmtrx",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42732728,
             "language": "C++",
             "last_commit": "2026-08-15T03:38:39Z",
             "owner": "KDE",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53790345,
             "language": "Ruby",
             "last_commit": "2026-01-02T18:36:02Z",
             "owner": "bleskodev",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96363323,
             "language": "Perl",
             "last_commit": "2022-02-23T16:20:29Z",
             "owner": "bgoglin",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78468410,
             "language": "Python",
             "last_commit": "2026-03-08T21:18:24Z",
             "owner": "jack-cli-cd-ripper",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 953394388,
             "language": "TypeScript",
             "last_commit": "2026-07-03T09:33:14Z",
             "owner": "WengYiNing",
@@ -330,24 +352,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3609564,
             "language": "Python",
             "last_commit": "2018-03-31T14:59:58Z",
             "owner": "giorgiofranceschi",
             "repo": "xaudiocopy",
             "stars": 5
           }
-        },
-        {
-          "node_type": "item",
-          "title": "cyanrip",
-          "description": "rips and encodes standard audio CDs with the least effort required from user. Cross platform.",
-          "children": []
         }
       ],
       "title": "Audio Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -356,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2513129,
             "language": "LilyPond",
             "last_commit": "2024-11-07T21:28:28Z",
             "owner": "MutopiaProject",
@@ -370,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 447235,
             "language": "LilyPond",
             "last_commit": "2026-08-09T17:23:06Z",
             "owner": "cellist",
@@ -384,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2966279,
             "language": "LilyPond",
             "last_commit": "2022-06-05T13:09:03Z",
             "owner": "wbsoft",
@@ -398,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 495470,
             "language": "LilyPond",
             "last_commit": "2022-03-04T11:18:29Z",
             "owner": "nsceaux",
@@ -412,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 485535583,
             "language": "LilyPond",
             "last_commit": "2026-06-14T20:14:22Z",
             "owner": "madrisan",
@@ -426,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181795,
             "language": "LilyPond",
             "last_commit": "2020-12-13T06:38:55Z",
             "owner": "noteflakes",
@@ -437,7 +460,7 @@
       "title": "Free Music Scores"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -446,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10889417,
             "language": "Python",
             "last_commit": "2026-06-27T13:13:18Z",
             "owner": "mido",
@@ -460,11 +484,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93693951,
             "language": "C",
             "last_commit": "2024-06-24T15:37:50Z",
             "owner": "cbdevnet",
             "repo": "midimonster",
-            "stars": 600
+            "stars": 601
           }
         },
         {
@@ -474,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205705508,
             "language": "Java",
             "last_commit": "2026-08-16T12:29:00Z",
             "owner": "jjazzboss",
@@ -488,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 659262342,
             "language": "Rust",
             "last_commit": "2023-07-25T07:30:10Z",
             "owner": "dredozubov",
@@ -502,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1160094334,
             "language": "C++",
             "last_commit": "2026-06-06T03:59:10Z",
             "owner": "sauloverissimo",
@@ -516,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 582899796,
             "language": "Python",
             "last_commit": "2026-06-23T01:02:50Z",
             "owner": "mididings",
@@ -530,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 736488232,
             "language": "Python",
             "last_commit": "2026-07-14T00:06:09Z",
             "owner": "mididings",
@@ -541,7 +571,7 @@
       "title": "MIDI Tools & Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -550,11 +580,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4454793,
             "language": "C++",
-            "last_commit": "2026-08-18T09:23:51Z",
+            "last_commit": "2026-08-19T07:25:16Z",
             "owner": "musescore",
             "repo": "MuseScore",
-            "stars": 14990
+            "stars": 14993
           }
         },
         {
@@ -564,11 +595,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 814715,
             "language": "TypeScript",
             "last_commit": "2025-03-05T22:49:21Z",
             "owner": "0xfe",
             "repo": "vexflow",
-            "stars": 4364
+            "stars": 4365
           }
         },
         {
@@ -578,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51307118,
             "language": "TypeScript",
             "last_commit": "2026-08-11T16:18:14Z",
             "owner": "opensheetmusicdisplay",
@@ -592,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1302990,
             "language": "Python",
             "last_commit": "2026-07-27T00:43:36Z",
             "owner": "frescobaldi",
@@ -606,8 +640,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15762693,
             "language": "C++",
-            "last_commit": "2026-08-18T09:42:41Z",
+            "last_commit": "2026-08-18T20:21:32Z",
             "owner": "rism-digital",
             "repo": "verovio",
             "stars": 912
@@ -620,8 +655,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15762693,
             "language": "C++",
-            "last_commit": "2026-08-18T09:42:41Z",
+            "last_commit": "2026-08-18T20:21:32Z",
             "owner": "rism-digital",
             "repo": "verovio",
             "stars": 912
@@ -634,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25831893,
             "language": "JavaScript",
             "last_commit": "2016-07-02T22:09:14Z",
             "owner": "MichalPaszkiewicz",
@@ -648,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12538553,
             "language": "LilyPond",
             "last_commit": "2023-04-30T12:44:13Z",
             "owner": "openlilylib",
@@ -662,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26138523,
             "language": "Objective-C++",
             "last_commit": "2019-05-16T02:32:57Z",
             "owner": "Reinvent-Archived-Projects",
@@ -676,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46150281,
             "language": "Ruby",
             "last_commit": "2019-04-05T20:09:21Z",
             "owner": "noteflakes-music",
@@ -690,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121034292,
             "language": "JavaScript",
             "last_commit": "2026-06-20T07:31:27Z",
             "owner": "PatWie",
@@ -704,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 252912,
             "language": "Ruby",
             "last_commit": "2023-01-25T02:59:28Z",
             "owner": "noteflakes",
@@ -718,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106458494,
             "language": "Python",
             "last_commit": "2018-01-01T20:47:21Z",
             "owner": "Michael-F-Ellis",
@@ -732,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48626578,
             "language": "Shell",
             "last_commit": "2023-05-09T00:52:38Z",
             "owner": "olsonpm",
@@ -746,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49950744,
             "language": null,
             "last_commit": "2016-01-19T12:31:12Z",
             "owner": "noteflakes-music",
@@ -760,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1115530795,
             "language": "TypeScript",
             "last_commit": "2026-07-19T00:18:19Z",
             "owner": "DrakeB1234",
@@ -771,7 +817,7 @@
       "title": "Music Notation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -780,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 856493,
             "language": "Clojure",
             "last_commit": "2026-01-24T09:04:34Z",
             "owner": "overtone",
@@ -794,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23338323,
             "language": "Go",
             "last_commit": "2026-08-15T01:43:05Z",
             "owner": "alda-lang",
@@ -808,11 +856,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121553439,
             "language": "JavaScript",
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5061
+            "stars": 5064
           }
         },
         {
@@ -822,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19807669,
             "language": "C++",
             "last_commit": "2026-07-10T19:10:37Z",
             "owner": "ccrma",
@@ -836,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 586266019,
             "language": "Python",
             "last_commit": "2023-06-06T20:46:14Z",
             "owner": "tuneflow",
@@ -850,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69284662,
             "language": "C",
             "last_commit": "2025-02-10T23:10:02Z",
             "owner": "Gwion",
@@ -864,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6459936,
             "language": "Clojure",
             "last_commit": "2025-12-15T22:24:27Z",
             "owner": "ctford",
@@ -878,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1632762,
             "language": "C++",
             "last_commit": "2026-07-25T10:42:17Z",
             "owner": "buzzinglight",
@@ -892,11 +946,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 517730135,
             "language": "Python",
             "last_commit": "2025-05-19T20:45:01Z",
             "owner": "Bubobubobubobubo",
             "repo": "sardine",
-            "stars": 322
+            "stars": 323
           }
         },
         {
@@ -906,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13373374,
             "language": "JavaScript",
             "last_commit": "2015-10-09T00:44:23Z",
             "owner": "mohayonao",
@@ -920,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43568664,
             "language": "Java",
             "last_commit": "2025-12-08T10:12:14Z",
             "owner": "truj",
@@ -934,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 483377100,
             "language": "C++",
             "last_commit": "2026-02-05T20:01:17Z",
             "owner": "tarpit-collective",
@@ -948,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93725198,
             "language": "Common Lisp",
             "last_commit": "2026-07-13T18:04:26Z",
             "owner": "mdedwards",
@@ -962,8 +1021,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 732923985,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T06:16:11Z",
+            "last_commit": "2026-08-18T20:44:31Z",
             "owner": "Babali42",
             "repo": "DrumBeatRepo",
             "stars": 26
@@ -976,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 685478378,
             "language": "TypeScript",
             "last_commit": "2024-01-14T22:45:06Z",
             "owner": "kad1kad",
@@ -987,145 +1048,156 @@
       "title": "Music Programming"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Awesome Audio Visualization",
-          "description": "A curated list about Audio Visualization.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-13T14:34:10Z",
-            "owner": "willianjusten",
-            "repo": "awesome-audio-visualization",
-            "stars": 5061
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Python for Scientific Audio",
-          "description": "A curated list of python software and packages related to scientific research in audio.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-11T16:45:13Z",
-            "owner": "faroit",
-            "repo": "awesome-python-scientific-audio",
-            "stars": 1708
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Music Production",
-          "description": "A curated list of software and resources to create music.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-19T18:38:38Z",
-            "owner": "ad-si",
-            "repo": "awesome-music-production",
-            "stars": 1474
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Audio DSP",
-          "description": "A curated list of audio DSP and plugin development resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-03T20:51:38Z",
-            "owner": "BillyDM",
-            "repo": "awesome-audio-dsp",
-            "stars": 1414
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome WebAudio",
-          "description": "A curated list of awesome WebAudio packages and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-05T01:54:36Z",
-            "owner": "notthetup",
-            "repo": "awesome-webaudio",
-            "stars": 1396
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome sheet music",
-          "description": "A curated list of awesome sheet music software, libraries and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-01T11:49:07Z",
-            "owner": "ad-si",
-            "repo": "awesome-sheet-music",
-            "stars": 1020
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome AI Music Generation",
-          "description": "A curated list of AI music generation tools and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-15T08:49:18Z",
-            "owner": "Curated-Awesome-Lists",
-            "repo": "awesome-ai-music-generation",
-            "stars": 489
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Music Listening",
-          "description": "Awesome list of websites dedicated to listening to music.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-10-14T15:27:58Z",
-            "owner": "ybayle",
-            "repo": "awesome-music-listening",
-            "stars": 161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Music Programming",
-          "description": "A curated collection of music programming languages, libraries, frameworks and tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-07T06:59:19Z",
-            "owner": "zoejane",
-            "repo": "awesome-music-programming",
-            "stars": 140
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Audio Visualization",
+              "description": "A curated list about Audio Visualization.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54681855,
+                "language": "Shell",
+                "last_commit": "2026-08-13T14:34:10Z",
+                "owner": "willianjusten",
+                "repo": "awesome-audio-visualization",
+                "stars": 5063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Python for Scientific Audio",
+              "description": "A curated list of python software and packages related to scientific research in audio.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74242520,
+                "language": null,
+                "last_commit": "2026-06-11T16:45:13Z",
+                "owner": "faroit",
+                "repo": "awesome-python-scientific-audio",
+                "stars": 1708
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Music Production",
+              "description": "A curated list of software and resources to create music.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53864797,
+                "language": null,
+                "last_commit": "2026-07-19T18:38:38Z",
+                "owner": "ad-si",
+                "repo": "awesome-music-production",
+                "stars": 1475
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Audio DSP",
+              "description": "A curated list of audio DSP and plugin development resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315121782,
+                "language": null,
+                "last_commit": "2026-06-03T20:51:38Z",
+                "owner": "BillyDM",
+                "repo": "awesome-audio-dsp",
+                "stars": 1414
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome WebAudio",
+              "description": "A curated list of awesome WebAudio packages and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43116480,
+                "language": null,
+                "last_commit": "2026-06-05T01:54:36Z",
+                "owner": "notthetup",
+                "repo": "awesome-webaudio",
+                "stars": 1396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome sheet music",
+              "description": "A curated list of awesome sheet music software, libraries and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26535167,
+                "language": null,
+                "last_commit": "2026-07-01T11:49:07Z",
+                "owner": "ad-si",
+                "repo": "awesome-sheet-music",
+                "stars": 1020
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome AI Music Generation",
+              "description": "A curated list of AI music generation tools and resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 714008096,
+                "language": null,
+                "last_commit": "2026-05-15T08:49:18Z",
+                "owner": "Curated-Awesome-Lists",
+                "repo": "awesome-ai-music-generation",
+                "stars": 490
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Music Listening",
+              "description": "Awesome list of websites dedicated to listening to music.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117863865,
+                "language": null,
+                "last_commit": "2025-10-14T15:27:58Z",
+                "owner": "ybayle",
+                "repo": "awesome-music-listening",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Music Programming",
+              "description": "A curated collection of music programming languages, libraries, frameworks and tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 934156611,
+                "language": null,
+                "last_commit": "2026-04-07T06:59:19Z",
+                "owner": "zoejane",
+                "repo": "awesome-music-programming",
+                "stars": 140
+              }
+            }
+          ],
+          "description": "Other amazingly awesome lists can be found in the list.",
+          "node_type": "group",
+          "title": "Related lists"
         }
       ],
-      "title": "Related lists"
-    },
-    {
-      "description": "To the extent possible under law, Sharon Rosner has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
+      "title": "Other Awesomeness"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:47:24.527Z",
+    "last_updated": "2026-08-19T09:47:59.811Z",
     "original_repository": "noteflakes/awesome-music",
     "original_repository_sha": "b4ce518c33188e0f49dacca6b7262c2770deaf68",
     "enhanced_repository": "enhansome/enhansome-music",
