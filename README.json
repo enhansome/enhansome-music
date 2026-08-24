@@ -12,10 +12,10 @@
             "archived": false,
             "id": 32921736,
             "language": "C++",
-            "last_commit": "2026-08-23T12:08:37Z",
+            "last_commit": "2026-08-24T12:27:02Z",
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 17618
+            "stars": 17619
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-22T13:35:45Z",
             "owner": "koel",
             "repo": "koel",
-            "stars": 17230
+            "stars": 17231
           }
         },
         {
@@ -582,7 +582,7 @@
             "archived": false,
             "id": 4454793,
             "language": "C++",
-            "last_commit": "2026-08-24T08:07:45Z",
+            "last_commit": "2026-08-24T13:48:14Z",
             "owner": "musescore",
             "repo": "MuseScore",
             "stars": 15022
@@ -642,7 +642,7 @@
             "archived": false,
             "id": 15762693,
             "language": "C++",
-            "last_commit": "2026-08-20T07:17:23Z",
+            "last_commit": "2026-08-24T13:27:31Z",
             "owner": "rism-digital",
             "repo": "verovio",
             "stars": 912
@@ -657,7 +657,7 @@
             "archived": false,
             "id": 15762693,
             "language": "C++",
-            "last_commit": "2026-08-20T07:17:23Z",
+            "last_commit": "2026-08-24T13:27:31Z",
             "owner": "rism-digital",
             "repo": "verovio",
             "stars": 912
@@ -1023,7 +1023,7 @@
             "archived": false,
             "id": 732923985,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T21:47:47Z",
+            "last_commit": "2026-08-24T10:25:45Z",
             "owner": "Babali42",
             "repo": "DrumBeatRepo",
             "stars": 27
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:02:07.327Z",
+    "last_updated": "2026-08-24T14:01:55.596Z",
     "original_repository": "noteflakes/awesome-music",
     "original_repository_id": 47076519,
     "original_repository_sha": "b4ce518c33188e0f49dacca6b7262c2770deaf68",
