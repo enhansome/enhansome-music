@@ -66,7 +66,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25335
+            "stars": 25336
           }
         },
         {
@@ -435,7 +435,7 @@
             "archived": false,
             "id": 485535583,
             "language": "LilyPond",
-            "last_commit": "2026-08-24T21:29:07Z",
+            "last_commit": "2026-08-25T07:13:03Z",
             "owner": "madrisan",
             "repo": "open-scores",
             "stars": 33
@@ -615,7 +615,7 @@
             "last_commit": "2026-08-11T16:18:14Z",
             "owner": "opensheetmusicdisplay",
             "repo": "opensheetmusicdisplay",
-            "stars": 1945
+            "stars": 1946
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-08-24T13:27:31Z",
             "owner": "rism-digital",
             "repo": "verovio",
-            "stars": 913
+            "stars": 914
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-08-24T13:27:31Z",
             "owner": "rism-digital",
             "repo": "verovio",
-            "stars": 913
+            "stars": 914
           }
         },
         {
@@ -1026,7 +1026,7 @@
             "last_commit": "2026-08-24T21:45:45Z",
             "owner": "Babali42",
             "repo": "DrumBeatRepo",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -1109,7 +1109,7 @@
                 "last_commit": "2026-08-20T03:10:10Z",
                 "owner": "BillyDM",
                 "repo": "awesome-audio-dsp",
-                "stars": 1416
+                "stars": 1417
               }
             },
             {
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:40.504Z",
+    "last_updated": "2026-08-25T09:49:56.330Z",
     "original_repository": "noteflakes/awesome-music",
     "original_repository_id": 47076519,
     "original_repository_sha": "b4ce518c33188e0f49dacca6b7262c2770deaf68",
