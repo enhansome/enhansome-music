@@ -12,10 +12,10 @@
             "archived": false,
             "id": 32921736,
             "language": "C++",
-            "last_commit": "2026-08-24T12:27:02Z",
+            "last_commit": "2026-08-27T11:16:50Z",
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 17628
+            "stars": 17637
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T01:14:22Z",
             "owner": "openutau",
             "repo": "OpenUtau",
-            "stars": 4232
+            "stars": 4234
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2025-11-23T23:49:01Z",
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25336
+            "stars": 25338
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-03-06T04:12:17Z",
             "owner": "libAudioFlux",
             "repo": "audioFlux",
-            "stars": 3350
+            "stars": 3351
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-22T13:35:45Z",
             "owner": "koel",
             "repo": "koel",
-            "stars": 17233
+            "stars": 17234
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-07-08T14:37:52Z",
             "owner": "sergree",
             "repo": "matchering",
-            "stars": 2614
+            "stars": 2615
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-22T16:05:45Z",
             "owner": "enzo1982",
             "repo": "freac",
-            "stars": 1946
+            "stars": 1947
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-02-17T22:33:18Z",
             "owner": "whipper-team",
             "repo": "whipper",
-            "stars": 1402
+            "stars": 1404
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-24T18:35:38Z",
             "owner": "Chevron7Locked",
             "repo": "kima-hub",
-            "stars": 1200
+            "stars": 1202
           }
         },
         {
@@ -279,7 +279,7 @@
             "archived": false,
             "id": 42732728,
             "language": "C++",
-            "last_commit": "2026-08-25T03:38:06Z",
+            "last_commit": "2026-08-27T11:17:48Z",
             "owner": "KDE",
             "repo": "k3b",
             "stars": 227
@@ -390,7 +390,7 @@
             "archived": false,
             "id": 447235,
             "language": "LilyPond",
-            "last_commit": "2026-08-25T18:22:23Z",
+            "last_commit": "2026-08-26T16:41:38Z",
             "owner": "cellist",
             "repo": "Lilypond-Sheet-Music",
             "stars": 161
@@ -435,7 +435,7 @@
             "archived": false,
             "id": 485535583,
             "language": "LilyPond",
-            "last_commit": "2026-08-25T19:55:08Z",
+            "last_commit": "2026-08-27T06:12:55Z",
             "owner": "madrisan",
             "repo": "open-scores",
             "stars": 33
@@ -582,10 +582,10 @@
             "archived": false,
             "id": 4454793,
             "language": "C++",
-            "last_commit": "2026-08-26T08:14:47Z",
+            "last_commit": "2026-08-27T09:04:48Z",
             "owner": "musescore",
             "repo": "MuseScore",
-            "stars": 15023
+            "stars": 15031
           }
         },
         {
@@ -615,7 +615,7 @@
             "last_commit": "2026-08-11T16:18:14Z",
             "owner": "opensheetmusicdisplay",
             "repo": "opensheetmusicdisplay",
-            "stars": 1946
+            "stars": 1947
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2026-08-19T20:01:02Z",
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5936
+            "stars": 5935
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5072
+            "stars": 5074
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2026-07-10T19:10:37Z",
             "owner": "ccrma",
             "repo": "chuck",
-            "stars": 1038
+            "stars": 1039
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2023-06-06T20:46:14Z",
             "owner": "tuneflow",
             "repo": "tuneflow-py",
-            "stars": 889
+            "stars": 890
           }
         },
         {
@@ -1023,7 +1023,7 @@
             "archived": false,
             "id": 732923985,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T05:59:02Z",
+            "last_commit": "2026-08-27T06:10:34Z",
             "owner": "Babali42",
             "repo": "DrumBeatRepo",
             "stars": 28
@@ -1064,7 +1064,7 @@
                 "last_commit": "2026-08-13T14:34:10Z",
                 "owner": "willianjusten",
                 "repo": "awesome-audio-visualization",
-                "stars": 5063
+                "stars": 5064
               }
             },
             {
@@ -1094,7 +1094,7 @@
                 "last_commit": "2026-07-19T18:38:38Z",
                 "owner": "ad-si",
                 "repo": "awesome-music-production",
-                "stars": 1480
+                "stars": 1481
               }
             },
             {
@@ -1109,7 +1109,7 @@
                 "last_commit": "2026-08-20T03:10:10Z",
                 "owner": "BillyDM",
                 "repo": "awesome-audio-dsp",
-                "stars": 1417
+                "stars": 1418
               }
             },
             {
@@ -1154,7 +1154,7 @@
                 "last_commit": "2026-05-15T08:49:18Z",
                 "owner": "Curated-Awesome-Lists",
                 "repo": "awesome-ai-music-generation",
-                "stars": 490
+                "stars": 492
               }
             },
             {
@@ -1197,9 +1197,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:55:35.541Z",
-    "original_repository": "noteflakes/awesome-music",
-    "original_repository_id": 47076519,
+    "last_updated": "2026-08-27T11:53:47.664Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 47076519,
+      "language": null,
+      "last_commit": "2026-05-27T20:46:02Z",
+      "owner": "noteflakes",
+      "repo": "awesome-music",
+      "stars": 2482
+    },
     "original_repository_sha": "b4ce518c33188e0f49dacca6b7262c2770deaf68",
     "enhanced_repository": "enhansome/enhansome-music",
     "enhanced_repository_description": null,
