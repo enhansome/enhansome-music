@@ -12,10 +12,10 @@
             "archived": false,
             "id": 32921736,
             "language": "C++",
-            "last_commit": "2026-08-27T11:16:50Z",
+            "last_commit": "2026-08-27T19:38:02Z",
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 17637
+            "stars": 17643
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T01:14:22Z",
             "owner": "openutau",
             "repo": "OpenUtau",
-            "stars": 4234
+            "stars": 4236
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-22T13:06:58Z",
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8576
+            "stars": 8578
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-22T13:35:45Z",
             "owner": "koel",
             "repo": "koel",
-            "stars": 17234
+            "stars": 17233
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-24T18:35:38Z",
             "owner": "Chevron7Locked",
             "repo": "kima-hub",
-            "stars": 1202
+            "stars": 1203
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2026-08-27T09:04:48Z",
             "owner": "musescore",
             "repo": "MuseScore",
-            "stars": 15031
+            "stars": 15032
           }
         },
         {
@@ -642,7 +642,7 @@
             "archived": false,
             "id": 15762693,
             "language": "C++",
-            "last_commit": "2026-08-24T13:27:31Z",
+            "last_commit": "2026-08-27T15:12:49Z",
             "owner": "rism-digital",
             "repo": "verovio",
             "stars": 914
@@ -657,7 +657,7 @@
             "archived": false,
             "id": 15762693,
             "language": "C++",
-            "last_commit": "2026-08-24T13:27:31Z",
+            "last_commit": "2026-08-27T15:12:49Z",
             "owner": "rism-digital",
             "repo": "verovio",
             "stars": 914
@@ -1023,7 +1023,7 @@
             "archived": false,
             "id": 732923985,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T06:10:34Z",
+            "last_commit": "2026-08-27T19:02:22Z",
             "owner": "Babali42",
             "repo": "DrumBeatRepo",
             "stars": 28
@@ -1064,7 +1064,7 @@
                 "last_commit": "2026-08-13T14:34:10Z",
                 "owner": "willianjusten",
                 "repo": "awesome-audio-visualization",
-                "stars": 5064
+                "stars": 5065
               }
             },
             {
@@ -1154,7 +1154,7 @@
                 "last_commit": "2026-05-15T08:49:18Z",
                 "owner": "Curated-Awesome-Lists",
                 "repo": "awesome-ai-music-generation",
-                "stars": 492
+                "stars": 493
               }
             },
             {
@@ -1197,7 +1197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:53:47.664Z",
+    "last_updated": "2026-08-27T19:49:37.692Z",
     "original_repository_info": {
       "archived": false,
       "id": 47076519,
