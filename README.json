@@ -12,11 +12,12 @@
             "archived": false,
             "id": 32921736,
             "language": "C++",
-            "last_commit": "2026-08-27T19:38:02Z",
+            "last_commit": "2026-08-28T15:25:10Z",
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 17643
-          }
+            "stars": 17649
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-24T01:14:22Z",
             "owner": "openutau",
             "repo": "OpenUtau",
-            "stars": 4236
-          }
+            "stars": 4237
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "stargatedaw",
             "repo": "stargate",
             "stars": 873
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         }
       ],
       "title": "Audio Editing"
@@ -67,7 +70,8 @@
             "owner": "goldfire",
             "repo": "howler.js",
             "stars": 25338
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -81,8 +85,9 @@
             "last_commit": "2026-08-22T13:06:58Z",
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8578
-          }
+            "stars": 8579
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -96,8 +101,9 @@
             "last_commit": "2024-06-16T06:45:24Z",
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3926
-          }
+            "stars": 3925
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -111,8 +117,9 @@
             "last_commit": "2026-03-06T04:12:17Z",
             "owner": "libAudioFlux",
             "repo": "audioFlux",
-            "stars": 3351
-          }
+            "stars": 3352
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "kolber",
             "repo": "audiojs",
             "stars": 2083
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "no-chris",
             "repo": "chord-mark",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "Reinvent-Archived-Projects",
             "repo": "mxml",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         }
       ],
       "title": "Audio Libraries"
@@ -177,8 +187,9 @@
             "last_commit": "2026-08-22T13:35:45Z",
             "owner": "koel",
             "repo": "koel",
-            "stars": 17233
-          }
+            "stars": 17236
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "sergree",
             "repo": "matchering",
             "stars": 2615
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "enzo1982",
             "repo": "freac",
             "stars": 1947
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "whipper-team",
             "repo": "whipper",
             "stars": 1404
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -237,8 +251,9 @@
             "last_commit": "2026-08-24T18:35:38Z",
             "owner": "Chevron7Locked",
             "repo": "kima-hub",
-            "stars": 1203
-          }
+            "stars": 1204
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "belangeo",
             "repo": "cecilia5",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "ftrvxmtrx",
             "repo": "split2flac",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "KDE",
             "repo": "k3b",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "bleskodev",
             "repo": "rubyripper",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "bgoglin",
             "repo": "lltag",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "jack-cli-cd-ripper",
             "repo": "jack",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "WengYiNing",
             "repo": "Auralytics",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "giorgiofranceschi",
             "repo": "xaudiocopy",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         }
       ],
       "title": "Audio Tools"
@@ -379,7 +402,8 @@
             "owner": "MutopiaProject",
             "repo": "MutopiaProject",
             "stars": 308
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "cellist",
             "repo": "Lilypond-Sheet-Music",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "wbsoft",
             "repo": "lilymusic",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "nsceaux",
             "repo": "nenuvar",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "madrisan",
             "repo": "open-scores",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "noteflakes",
             "repo": "music",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         }
       ],
       "title": "Free Music Scores"
@@ -475,7 +504,8 @@
             "owner": "mido",
             "repo": "mido",
             "stars": 1638
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -490,7 +520,8 @@
             "owner": "cbdevnet",
             "repo": "midimonster",
             "stars": 603
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,8 @@
             "owner": "jjazzboss",
             "repo": "JJazzLab",
             "stars": 584
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -520,7 +552,8 @@
             "owner": "dredozubov",
             "repo": "polyrhythmix",
             "stars": 308
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "sauloverissimo",
             "repo": "gingoduino",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "mididings",
             "repo": "mididings",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -565,7 +600,8 @@
             "owner": "mididings",
             "repo": "stagedings",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         }
       ],
       "title": "MIDI Tools & Libraries"
@@ -582,11 +618,12 @@
             "archived": false,
             "id": 4454793,
             "language": "C++",
-            "last_commit": "2026-08-27T09:04:48Z",
+            "last_commit": "2026-08-28T11:34:09Z",
             "owner": "musescore",
             "repo": "MuseScore",
-            "stars": 15032
-          }
+            "stars": 15036
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -600,8 +637,9 @@
             "last_commit": "2025-03-05T22:49:21Z",
             "owner": "0xfe",
             "repo": "vexflow",
-            "stars": 4365
-          }
+            "stars": 4366
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -616,7 +654,8 @@
             "owner": "opensheetmusicdisplay",
             "repo": "opensheetmusicdisplay",
             "stars": 1947
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -631,7 +670,8 @@
             "owner": "frescobaldi",
             "repo": "frescobaldi",
             "stars": 946
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -646,7 +686,8 @@
             "owner": "rism-digital",
             "repo": "verovio",
             "stars": 914
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -661,7 +702,8 @@
             "owner": "rism-digital",
             "repo": "verovio",
             "stars": 914
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -676,7 +718,8 @@
             "owner": "MichalPaszkiewicz",
             "repo": "inknote",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -691,7 +734,8 @@
             "owner": "openlilylib",
             "repo": "snippets",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -706,7 +750,8 @@
             "owner": "Reinvent-Archived-Projects",
             "repo": "musickit",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -721,7 +766,8 @@
             "owner": "noteflakes-music",
             "repo": "lyp",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -736,7 +782,8 @@
             "owner": "PatWie",
             "repo": "digitalmusicstand",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -751,7 +798,8 @@
             "owner": "noteflakes",
             "repo": "ripple",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -766,7 +814,8 @@
             "owner": "Michael-F-Ellis",
             "repo": "tbon",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -781,7 +830,8 @@
             "owner": "olsonpm",
             "repo": "lilyvm",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -796,7 +846,8 @@
             "owner": "noteflakes-music",
             "repo": "lilypond-cookbook",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -811,7 +862,8 @@
             "owner": "DrakeB1234",
             "repo": "VectorScore",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         }
       ],
       "title": "Music Notation"
@@ -831,8 +883,9 @@
             "last_commit": "2026-01-24T09:04:34Z",
             "owner": "overtone",
             "repo": "overtone",
-            "stars": 6216
-          }
+            "stars": 6217
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -847,7 +900,8 @@
             "owner": "alda-lang",
             "repo": "alda",
             "stars": 5935
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -861,8 +915,9 @@
             "last_commit": "2025-11-16T18:19:05Z",
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5074
-          }
+            "stars": 5075
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -877,7 +932,8 @@
             "owner": "ccrma",
             "repo": "chuck",
             "stars": 1039
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -892,7 +948,8 @@
             "owner": "tuneflow",
             "repo": "tuneflow-py",
             "stars": 890
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -907,7 +964,8 @@
             "owner": "Gwion",
             "repo": "Gwion",
             "stars": 580
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -922,7 +980,8 @@
             "owner": "ctford",
             "repo": "leipzig",
             "stars": 466
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -937,7 +996,8 @@
             "owner": "buzzinglight",
             "repo": "IanniX",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -952,7 +1012,8 @@
             "owner": "Bubobubobubobubo",
             "repo": "sardine",
             "stars": 324
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -967,7 +1028,8 @@
             "owner": "mohayonao",
             "repo": "CoffeeCollider",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -982,7 +1044,8 @@
             "owner": "truj",
             "repo": "midica",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -997,7 +1060,8 @@
             "owner": "tarpit-collective",
             "repo": "cane",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -1012,7 +1076,8 @@
             "owner": "mdedwards",
             "repo": "slippery-chicken",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -1023,11 +1088,12 @@
             "archived": false,
             "id": 732923985,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:02:22Z",
+            "last_commit": "2026-08-28T20:47:49Z",
             "owner": "Babali42",
             "repo": "DrumBeatRepo",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         },
         {
           "node_type": "item",
@@ -1042,7 +1108,8 @@
             "owner": "kad1kad",
             "repo": "leiter",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:49:47.456Z"
         }
       ],
       "title": "Music Programming"
@@ -1064,8 +1131,9 @@
                 "last_commit": "2026-08-13T14:34:10Z",
                 "owner": "willianjusten",
                 "repo": "awesome-audio-visualization",
-                "stars": 5065
-              }
+                "stars": 5066
+              },
+              "first_seen": "2026-08-28T20:49:47.456Z"
             },
             {
               "node_type": "item",
@@ -1080,7 +1148,8 @@
                 "owner": "faroit",
                 "repo": "awesome-python-scientific-audio",
                 "stars": 1707
-              }
+              },
+              "first_seen": "2026-08-28T20:49:47.456Z"
             },
             {
               "node_type": "item",
@@ -1094,8 +1163,9 @@
                 "last_commit": "2026-07-19T18:38:38Z",
                 "owner": "ad-si",
                 "repo": "awesome-music-production",
-                "stars": 1481
-              }
+                "stars": 1482
+              },
+              "first_seen": "2026-08-28T20:49:47.456Z"
             },
             {
               "node_type": "item",
@@ -1109,8 +1179,9 @@
                 "last_commit": "2026-08-20T03:10:10Z",
                 "owner": "BillyDM",
                 "repo": "awesome-audio-dsp",
-                "stars": 1418
-              }
+                "stars": 1421
+              },
+              "first_seen": "2026-08-28T20:49:47.456Z"
             },
             {
               "node_type": "item",
@@ -1125,7 +1196,8 @@
                 "owner": "notthetup",
                 "repo": "awesome-webaudio",
                 "stars": 1396
-              }
+              },
+              "first_seen": "2026-08-28T20:49:47.456Z"
             },
             {
               "node_type": "item",
@@ -1140,7 +1212,8 @@
                 "owner": "ad-si",
                 "repo": "awesome-sheet-music",
                 "stars": 1026
-              }
+              },
+              "first_seen": "2026-08-28T20:49:47.456Z"
             },
             {
               "node_type": "item",
@@ -1155,7 +1228,8 @@
                 "owner": "Curated-Awesome-Lists",
                 "repo": "awesome-ai-music-generation",
                 "stars": 493
-              }
+              },
+              "first_seen": "2026-08-28T20:49:47.456Z"
             },
             {
               "node_type": "item",
@@ -1170,7 +1244,8 @@
                 "owner": "ybayle",
                 "repo": "awesome-music-listening",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T20:49:47.456Z"
             },
             {
               "node_type": "item",
@@ -1185,7 +1260,8 @@
                 "owner": "zoejane",
                 "repo": "awesome-music-programming",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T20:49:47.456Z"
             }
           ],
           "description": "Other amazingly awesome lists can be found in the list.",
@@ -1197,7 +1273,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:49:37.692Z",
+    "last_updated": "2026-08-28T20:49:47.456Z",
     "original_repository_info": {
       "archived": false,
       "id": 47076519,
@@ -1205,7 +1281,7 @@
       "last_commit": "2026-05-27T20:46:02Z",
       "owner": "noteflakes",
       "repo": "awesome-music",
-      "stars": 2482
+      "stars": 2483
     },
     "original_repository_sha": "b4ce518c33188e0f49dacca6b7262c2770deaf68",
     "enhanced_repository": "enhansome/enhansome-music",
