@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audio Editor                                     ",
+            "homepage": "https://wiki.audacityteam.org/wiki/For_Developers",
             "id": 32921736,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:25:10Z",
+            "open_issues": 1676,
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 17649
+            "stars": 17652,
+            "topics": [
+              "audio",
+              "cross-platform",
+              "editor",
+              "gplv2",
+              "wxwidgets-applications"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -26,12 +37,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open singing synthesis platform / Open source UTAU successor",
+            "homepage": "http://www.openutau.com",
             "id": 27212980,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-24T01:14:22Z",
+            "open_issues": 177,
             "owner": "openutau",
             "repo": "OpenUtau",
-            "stars": 4237
+            "stars": 4238,
+            "topics": [
+              "music",
+              "openutau",
+              "singing-synthesis",
+              "singing-voice-synthesis",
+              "speech-synthesis",
+              "utau",
+              "vocal-synthesis",
+              "vocaloid",
+              "vogen"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -42,12 +68,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor",
+            "homepage": null,
             "id": 410708568,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-21T17:51:22Z",
+            "open_issues": 19,
             "owner": "stargatedaw",
             "repo": "stargate",
-            "stars": 873
+            "stars": 873,
+            "topics": [
+              "audio-dsp",
+              "audio-effect",
+              "audio-plugin",
+              "c17",
+              "computer-music",
+              "daw",
+              "digital-audio-workstation",
+              "drum-machine",
+              "drums",
+              "edm",
+              "electronic-music",
+              "music-creation",
+              "pyqt",
+              "pyqt6",
+              "sampler",
+              "sequencer",
+              "songs",
+              "synth",
+              "synthesis",
+              "synthesizer"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         }
@@ -64,12 +116,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript audio library for the modern web.",
+            "homepage": "https://howlerjs.com",
             "id": 7874074,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-23T23:49:01Z",
+            "open_issues": 417,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25338
+            "stars": 25338,
+            "topics": [
+              "audio",
+              "audio-library",
+              "howler",
+              "html5-audio",
+              "javascript",
+              "playback",
+              "volume",
+              "web-audio"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -80,12 +146,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library for audio and music analysis",
+            "homepage": "https://librosa.org/",
             "id": 6309729,
             "language": "Python",
+            "license": "ISC",
             "last_commit": "2026-08-22T13:06:58Z",
+            "open_issues": 51,
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8579
+            "stars": 8580,
+            "topics": [
+              "audio",
+              "dsp",
+              "librosa",
+              "music",
+              "python",
+              "scipy"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -96,12 +174,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":musical_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Drums, ect. into code that can be read by the browser. Supports multiple simultaneous instruments and perfect timing.",
+            "homepage": "http://mudcu.be/midi-js/",
             "id": 3457006,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-16T06:45:24Z",
+            "open_issues": 141,
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3925
+            "stars": 3925,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -112,12 +195,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for audio and music analysis, feature extraction.",
+            "homepage": "https://audioflux.top",
             "id": 589514195,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-03-06T04:12:17Z",
+            "open_issues": 16,
             "owner": "libAudioFlux",
             "repo": "audioFlux",
-            "stars": 3352
+            "stars": 3353,
+            "topics": [
+              "audio",
+              "audio-analysis",
+              "audio-features",
+              "audio-processing",
+              "deep-learning",
+              "machine-learning",
+              "mfcc",
+              "mir",
+              "music",
+              "music-analysis",
+              "music-information-retrieval",
+              "pitch",
+              "python",
+              "signal-processing",
+              "spectral-analysis",
+              "spectrogram",
+              "time-frequency-analysis",
+              "wavelet-analysis",
+              "wavelet-transform"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -128,12 +236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-browser javascript wrapper for the html5 audio tag",
+            "homepage": "http://kolber.github.io/audiojs",
             "id": 1130400,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-09-25T12:29:23Z",
+            "open_issues": 106,
             "owner": "kolber",
             "repo": "audiojs",
-            "stars": 2083
+            "stars": 2083,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -144,12 +257,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chord Charts. Evolved.",
+            "homepage": "https://chordmark.netlify.app",
             "id": 177453481,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-13T20:48:51Z",
+            "open_issues": 4,
             "owner": "no-chris",
             "repo": "chord-mark",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "chord-charts",
+              "chord-progression",
+              "chord-sheet",
+              "chordpro",
+              "chords",
+              "chordsheet",
+              "chordsheet-editor",
+              "guitar",
+              "guitar-chords",
+              "guitar-tabs",
+              "music",
+              "music-notation",
+              "piano",
+              "tabs",
+              "ukulele"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -160,12 +294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MusicXML parsing and layout library",
+            "homepage": null,
             "id": 26025555,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2018-10-22T20:00:49Z",
+            "open_issues": 0,
             "owner": "Reinvent-Archived-Projects",
             "repo": "mxml",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         }
@@ -182,12 +321,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Music streaming solution that works.",
+            "homepage": "https://koel.dev",
             "id": 47495360,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-22T13:35:45Z",
+            "open_issues": 15,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17236
+            "stars": 17237,
+            "topics": [
+              "audio",
+              "hacktoberfest",
+              "laravel",
+              "music",
+              "music-player",
+              "streaming",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -198,12 +350,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎚️ Open Source Audio Matching and Mastering",
+            "homepage": "https://pypi.org/project/matchering/",
             "id": 150785299,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-08T14:37:52Z",
+            "open_issues": 34,
             "owner": "sergree",
             "repo": "matchering",
-            "stars": 2615
+            "stars": 2615,
+            "topics": [
+              "audio",
+              "docker-image",
+              "dsp",
+              "equalizer",
+              "filter",
+              "limiter",
+              "mastering",
+              "matchering",
+              "matching",
+              "music",
+              "numpy",
+              "python",
+              "python-library",
+              "python3",
+              "scipy",
+              "sound",
+              "spectrum",
+              "vst"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -214,12 +390,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fre:ac audio converter project",
+            "homepage": "https://www.freac.org/",
             "id": 100884109,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-22T16:05:45Z",
+            "open_issues": 223,
             "owner": "enzo1982",
             "repo": "freac",
-            "stars": 1947
+            "stars": 1947,
+            "topics": [
+              "aac",
+              "alac",
+              "audio",
+              "c-plus-plus",
+              "cd-ripper",
+              "converter",
+              "flac",
+              "freebsd",
+              "linux",
+              "macos",
+              "mp3",
+              "multi-platform",
+              "opus",
+              "portable",
+              "speex",
+              "unix",
+              "vorbis",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -230,12 +430,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python CD-DA ripper preferring accuracy over speed",
+            "homepage": null,
             "id": 33631252,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-17T22:33:18Z",
+            "open_issues": 176,
             "owner": "whipper-team",
             "repo": "whipper",
-            "stars": 1404
+            "stars": 1404,
+            "topics": [
+              "audio",
+              "cd-da-ripper",
+              "cd-ripper",
+              "cdda",
+              "cli",
+              "digital-audio",
+              "flac",
+              "linux",
+              "morituri",
+              "python",
+              "rip",
+              "terminal",
+              "unix",
+              "whipper"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -246,12 +466,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kima Hub is built for music lovers who want the convenience of streaming services without sacrificing ownership of their library. Point it at your music collection, and Kima handles the rest: artist discovery, personalized playlists, podcast subscriptions, and seamless integration with tools you already use like Lidarr and Audiobookshelf.",
+            "homepage": null,
             "id": 1106802552,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T18:35:38Z",
+            "open_issues": 63,
             "owner": "Chevron7Locked",
             "repo": "kima-hub",
-            "stars": 1204
+            "stars": 1205,
+            "topics": [
+              "audiobook-player",
+              "lyrics",
+              "lyrics-fetcher",
+              "music",
+              "music-sharing",
+              "musicplayer",
+              "podcast-player",
+              "podcasts",
+              "soulseek-network",
+              "spotify"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -262,12 +498,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ear-bending noises and music",
+            "homepage": null,
             "id": 39092002,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-10T19:21:13Z",
+            "open_issues": 34,
             "owner": "belangeo",
             "repo": "cecilia5",
-            "stars": 287
+            "stars": 287,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -278,12 +519,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Split flac/ape/wv/wav + cue sheet into separate tracks",
+            "homepage": null,
             "id": 3186642,
             "language": "Shell",
+            "license": null,
             "last_commit": "2020-05-08T20:11:32Z",
+            "open_issues": 17,
             "owner": "ftrvxmtrx",
             "repo": "split2flac",
-            "stars": 259
+            "stars": 259,
+            "topics": [
+              "cue-sheet",
+              "flac",
+              "shell",
+              "split"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -294,12 +545,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full-featured CD/DVD/Blu-ray burning and ripping application",
+            "homepage": "https://invent.kde.org/multimedia/k3b",
             "id": 42732728,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-27T11:17:48Z",
+            "open_issues": 0,
             "owner": "KDE",
             "repo": "k3b",
-            "stars": 227
+            "stars": 227,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -310,12 +566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fork of the original rubyripper from code.google.com/p/rubyripper + some bugs fixes",
+            "homepage": null,
             "id": 53790345,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2026-01-02T18:36:02Z",
+            "open_issues": 89,
             "owner": "bleskodev",
             "repo": "rubyripper",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -326,12 +587,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic command-line mp3/ogg/flac file tagger and renamer",
+            "homepage": "http://bgoglin.free.fr/lltag/",
             "id": 96363323,
             "language": "Perl",
+            "license": "GPL-2.0",
             "last_commit": "2022-02-23T16:20:29Z",
+            "open_issues": 5,
             "owner": "bgoglin",
             "repo": "lltag",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "audio-tag",
+              "command-line-tool",
+              "flac",
+              "mp3",
+              "ogg",
+              "perl",
+              "rename",
+              "vorbis"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -342,12 +617,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jack command-line CD ripper",
+            "homepage": null,
             "id": 78468410,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-21T17:36:22Z",
+            "open_issues": 7,
             "owner": "jack-cli-cd-ripper",
             "repo": "jack",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "aac",
+              "audio",
+              "cd-ripper",
+              "cddb",
+              "cli",
+              "flac",
+              "mp3",
+              "musicbrainz",
+              "vorbis",
+              "wav"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -358,12 +649,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Discover your unique music story.  Explore your top tracks, artists, genres, and musical eras.",
+            "homepage": "https://auralyticsmusic.com",
             "id": 953394388,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-03T09:33:14Z",
+            "open_issues": 2,
             "owner": "WengYiNing",
             "repo": "Auralytics",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "api",
+              "arts",
+              "data-visualization",
+              "express",
+              "music",
+              "music-analysis",
+              "nodejs",
+              "react",
+              "spotify",
+              "spotify-api",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -374,12 +682,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "X Audio Copy - GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.",
+            "homepage": null,
             "id": 3609564,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2018-03-31T14:59:58Z",
+            "open_issues": 0,
             "owner": "giorgiofranceschi",
             "repo": "xaudiocopy",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         }
@@ -396,12 +709,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source sheet music",
+            "homepage": "http://www.mutopiaproject.org/",
             "id": 2513129,
             "language": "LilyPond",
+            "license": null,
             "last_commit": "2024-11-07T21:28:28Z",
+            "open_issues": 75,
             "owner": "MutopiaProject",
             "repo": "MutopiaProject",
-            "stars": 308
+            "stars": 308,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -412,12 +730,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Music typeset with the Lilypond system",
+            "homepage": null,
             "id": 447235,
             "language": "LilyPond",
+            "license": null,
             "last_commit": "2026-08-26T16:41:38Z",
+            "open_issues": 1,
             "owner": "cellist",
             "repo": "Lilypond-Sheet-Music",
-            "stars": 161
+            "stars": 161,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -428,12 +751,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beautiful LilyPond scores under free licenses",
+            "homepage": null,
             "id": 2966279,
             "language": "LilyPond",
+            "license": null,
             "last_commit": "2022-06-05T13:09:03Z",
+            "open_issues": 1,
             "owner": "wbsoft",
             "repo": "lilymusic",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -444,12 +772,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Baroque music scores, typeset with GNU LilyPond",
+            "homepage": "http://nicolas.sceaux.free.fr",
             "id": 495470,
             "language": "LilyPond",
+            "license": null,
             "last_commit": "2022-03-04T11:18:29Z",
+            "open_issues": 7,
             "owner": "nsceaux",
             "repo": "nenuvar",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -460,12 +793,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Musical Scores for Piano with full sources in LilyPond file format",
+            "homepage": null,
             "id": 485535583,
             "language": "LilyPond",
-            "last_commit": "2026-08-27T06:12:55Z",
+            "license": null,
+            "last_commit": "2026-08-28T22:32:21Z",
+            "open_issues": 6,
             "owner": "madrisan",
             "repo": "open-scores",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "apostel",
+              "bach",
+              "beethoven",
+              "brahms",
+              "casella",
+              "galuppi",
+              "glinka",
+              "gluck",
+              "langgaard",
+              "lilypond",
+              "liszt",
+              "music",
+              "piano",
+              "pizzetti",
+              "scarlatti",
+              "schoenberg",
+              "schumann",
+              "score",
+              "sheet-music",
+              "szymanowski"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -476,12 +835,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of scores typeset using Lilypond & Ripple",
+            "homepage": null,
             "id": 181795,
             "language": "LilyPond",
+            "license": null,
             "last_commit": "2020-12-13T06:38:55Z",
+            "open_issues": 0,
             "owner": "noteflakes",
             "repo": "music",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "lilypond",
+              "music",
+              "music-scores",
+              "sheet-music"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         }
@@ -498,12 +867,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MIDI Objects for Python",
+            "homepage": "https://mido.readthedocs.io",
             "id": 10889417,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-27T13:13:18Z",
+            "open_issues": 120,
             "owner": "mido",
             "repo": "mido",
-            "stars": 1638
+            "stars": 1638,
+            "topics": [
+              "midi",
+              "midifile",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -514,12 +892,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-protocol control & translation software (ArtNet, MIDI, OSC, sACN, ...)",
+            "homepage": "https://midimonster.net/",
             "id": 93693951,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-06-24T15:37:50Z",
+            "open_issues": 50,
             "owner": "cbdevnet",
             "repo": "midimonster",
-            "stars": 603
+            "stars": 603,
+            "topics": [
+              "art-net",
+              "artnet",
+              "dmx512",
+              "lighting",
+              "midi",
+              "midi-controller",
+              "midi-controllers",
+              "midi-notes",
+              "music",
+              "osc",
+              "osc-messages",
+              "protocol-adapter",
+              "protocols",
+              "sacn",
+              "streaming-acn"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -530,12 +929,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete and open application for automatic backing tracks generation.",
+            "homepage": "https://www.jjazzlab.org",
             "id": 205705508,
             "language": "Java",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-16T12:29:00Z",
+            "open_issues": 24,
             "owner": "jjazzboss",
             "repo": "JJazzLab",
-            "stars": 584
+            "stars": 584,
+            "topics": [
+              "arranger",
+              "audio",
+              "audio-applications",
+              "computer-music",
+              "cross-platform",
+              "midi",
+              "midi-api",
+              "midi-sequencer",
+              "music",
+              "music-arrangements",
+              "music-composition",
+              "music-generation",
+              "music-library",
+              "music-player",
+              "music-production",
+              "music-theory",
+              "music-tool",
+              "standalone-app"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -546,12 +969,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polyrhythmically-inclined Midi Drum generator",
+            "homepage": null,
             "id": 659262342,
             "language": "Rust",
+            "license": "Unlicense",
             "last_commit": "2023-07-25T07:30:10Z",
+            "open_issues": 0,
             "owner": "dredozubov",
             "repo": "polyrhythmix",
-            "stars": 308
+            "stars": 308,
+            "topics": [
+              "drums",
+              "drums-generation",
+              "midi",
+              "music",
+              "polyrhythm",
+              "polyrhythms",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -562,12 +998,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪇 Gingo[duino]: Music theory engine for embedded systems. Build musical instruments and controllers that interact with people and speak MIDI 1.0 and 2.0.",
+            "homepage": null,
             "id": 1160094334,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-06-06T03:59:10Z",
+            "open_issues": 0,
             "owner": "sauloverissimo",
             "repo": "gingoduino",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "arduino",
+              "daisyseed",
+              "esp32",
+              "midi2",
+              "music",
+              "stm32",
+              "teensy",
+              "theory"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -578,12 +1028,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community maintained fork of https://github.com/dsacre/mididings",
+            "homepage": null,
             "id": 582899796,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-23T01:02:50Z",
+            "open_issues": 4,
             "owner": "mididings",
             "repo": "mididings",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "live-music-automation",
+              "midi-router-linux",
+              "osc-integration",
+              "python-midi",
+              "real-time-performance"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -594,12 +1055,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An UI and API for mididings https://github.com/mididings/mididings ",
+            "homepage": "https://mididings.github.io/stagedings/",
             "id": 736488232,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-14T00:06:09Z",
+            "open_issues": 3,
             "owner": "mididings",
             "repo": "stagedings",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "live-music-automation",
+              "mididings",
+              "osc-integration",
+              "python-midi",
+              "real-time-performance"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         }
@@ -616,12 +1088,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
+            "homepage": "https://musescore.org",
             "id": 4454793,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T11:34:09Z",
+            "open_issues": 4144,
             "owner": "musescore",
             "repo": "MuseScore",
-            "stars": 15036
+            "stars": 15036,
+            "topics": [
+              "cpp",
+              "musescore",
+              "music-notation",
+              "musicxml",
+              "qt",
+              "sfz",
+              "sheet-music",
+              "sheetmusic"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -632,12 +1118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript library for rendering music notation and guitar tablature.",
+            "homepage": "http://www.vexflow.com",
             "id": 814715,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-05T22:49:21Z",
+            "open_issues": 52,
             "owner": "0xfe",
             "repo": "vexflow",
-            "stars": 4366
+            "stars": 4366,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -648,12 +1139,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSheetMusicDisplay renders sheet music in MusicXML format in browsers and headless with NodeJS. Based on VexFlow, OSMD is brought to you by PhonicScore.com.",
+            "homepage": "https://opensheetmusicdisplay.org",
             "id": 51307118,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-11T16:18:14Z",
+            "open_issues": 92,
             "owner": "opensheetmusicdisplay",
             "repo": "opensheetmusicdisplay",
-            "stars": 1947
+            "stars": 1947,
+            "topics": [
+              "digital-sheet-music",
+              "headless",
+              "music",
+              "music-notation",
+              "musicxml",
+              "mxl",
+              "sheet-music",
+              "sheet-music-viewer",
+              "sheetmusic",
+              "typescript",
+              "vexflow"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -664,12 +1172,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frescobaldi LilyPond Editor",
+            "homepage": "http://www.frescobaldi.org/",
             "id": 1302990,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-27T00:43:36Z",
+            "open_issues": 460,
             "owner": "frescobaldi",
             "repo": "frescobaldi",
-            "stars": 946
+            "stars": 946,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -680,12 +1193,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎵 Music notation engraving library for MEI with MusicXML and Humdrum support and various toolkits (JavaScript, Python)",
+            "homepage": "https://www.verovio.org",
             "id": 15762693,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-27T15:12:49Z",
+            "open_issues": 173,
             "owner": "rism-digital",
             "repo": "verovio",
-            "stars": 914
+            "stars": 914,
+            "topics": [
+              "digital-scores",
+              "javascript",
+              "mei",
+              "music",
+              "music-notation",
+              "musicxml",
+              "notation",
+              "pypi",
+              "sheetmusic",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -696,12 +1225,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎵 Music notation engraving library for MEI with MusicXML and Humdrum support and various toolkits (JavaScript, Python)",
+            "homepage": "https://www.verovio.org",
             "id": 15762693,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-27T15:12:49Z",
+            "open_issues": 173,
             "owner": "rism-digital",
             "repo": "verovio",
-            "stars": 914
+            "stars": 914,
+            "topics": [
+              "digital-scores",
+              "javascript",
+              "mei",
+              "music",
+              "music-notation",
+              "musicxml",
+              "notation",
+              "pypi",
+              "sheetmusic",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -712,12 +1257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compose music and write score easily in your browser!",
+            "homepage": "http://www.michalpaszkiewicz.co.uk/inknote/",
             "id": 25831893,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-07-02T22:09:14Z",
+            "open_issues": 1,
             "owner": "MichalPaszkiewicz",
             "repo": "inknote",
-            "stars": 156
+            "stars": 156,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -728,12 +1278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A place to store useful pieces of LilyPond code - custom functions, engravers, hacks, templates, examples etc.",
+            "homepage": null,
             "id": 12538553,
             "language": "LilyPond",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-30T12:44:13Z",
+            "open_issues": 30,
             "owner": "openlilylib",
             "repo": "snippets",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -744,12 +1299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Music sheet rendering for iOS",
+            "homepage": null,
             "id": 26138523,
             "language": "Objective-C++",
+            "license": "MIT",
             "last_commit": "2019-05-16T02:32:57Z",
+            "open_issues": 7,
             "owner": "Reinvent-Archived-Projects",
             "repo": "musickit",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -760,12 +1320,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Lilypond like a boss!",
+            "homepage": "http://lyp.noteflakes.com/",
             "id": 46150281,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2019-04-05T20:09:21Z",
+            "open_issues": 20,
             "owner": "noteflakes-music",
             "repo": "lyp",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "lilypond",
+              "music",
+              "music-notation",
+              "package-manager",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -776,12 +1347,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "web based music sheet viewer (go, pdfjs) as a single binary",
+            "homepage": "http://digitalmusicstand.org",
             "id": 121034292,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-20T07:31:27Z",
+            "open_issues": 2,
             "owner": "PatWie",
             "repo": "digitalmusicstand",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "diy",
+              "golang",
+              "music",
+              "music-library",
+              "music-sheet-organizer",
+              "pdf-viewer",
+              "pdfjs",
+              "rapsberrypi",
+              "sheet-music",
+              "sheet-music-viewer"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -792,12 +1379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lilypond music preprocessor",
+            "homepage": null,
             "id": 252912,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2023-01-25T02:59:28Z",
+            "open_issues": 1,
             "owner": "noteflakes",
             "repo": "ripple",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -808,12 +1400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Typographic Beat-Oriented Notation for music",
+            "homepage": null,
             "id": 106458494,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-01-01T20:47:21Z",
+            "open_issues": 4,
             "owner": "Michael-F-Ellis",
             "repo": "tbon",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -824,12 +1421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 48626578,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-05-09T00:52:38Z",
+            "open_issues": 0,
             "owner": "olsonpm",
             "repo": "lilyvm",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -840,12 +1442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The lilypond cookbook: a wiki for lilypond users",
+            "homepage": null,
             "id": 49950744,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2016-01-19T12:31:12Z",
+            "open_issues": 0,
             "owner": "noteflakes-music",
             "repo": "lilypond-cookbook",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -856,12 +1463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JS/TS ESM package for creating simple music staffs.",
+            "homepage": null,
             "id": 1115530795,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-19T00:18:19Z",
+            "open_issues": 0,
             "owner": "DrakeB1234",
             "repo": "VectorScore",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         }
@@ -878,12 +1490,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collaborative Programmable Music ",
+            "homepage": "http://overtone.github.io",
             "id": 856493,
             "language": "Clojure",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-24T09:04:34Z",
+            "open_issues": 96,
             "owner": "overtone",
             "repo": "overtone",
-            "stars": 6217
+            "stars": 6217,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -894,12 +1511,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A music programming language for musicians. :notes:",
+            "homepage": "https://alda.io",
             "id": 23338323,
             "language": "Go",
+            "license": "EPL-2.0",
             "last_commit": "2026-08-19T20:01:02Z",
+            "open_issues": 7,
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5935
+            "stars": 5935,
+            "topics": [
+              "alda",
+              "hacktoberfest",
+              "music",
+              "music-composition",
+              "music-programming",
+              "music-programming-language",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -910,12 +1540,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Esoteric Programming Language",
+            "homepage": "https://100r.co/site/orca.html",
             "id": 121553439,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-16T18:19:05Z",
+            "open_issues": 39,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5075
+            "stars": 5075,
+            "topics": [
+              "esoteric-language",
+              "livecoding",
+              "midi",
+              "osc",
+              "programming-language",
+              "udp"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -926,12 +1568,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ChucK Music Programming Language",
+            "homepage": "http://chuck.stanford.edu/",
             "id": 19807669,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-10T19:10:37Z",
+            "open_issues": 154,
             "owner": "ccrma",
             "repo": "chuck",
-            "stars": 1039
+            "stars": 1039,
+            "topics": [
+              "audio",
+              "chuck",
+              "language",
+              "music",
+              "programming",
+              "strongly-timed"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -942,12 +1596,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥",
+            "homepage": "https://tuneflow.com",
             "id": 586266019,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-06T20:46:14Z",
+            "open_issues": 3,
             "owner": "tuneflow",
             "repo": "tuneflow-py",
-            "stars": 890
+            "stars": 890,
+            "topics": [
+              "ai",
+              "ai-music",
+              "computer-music",
+              "daw",
+              "music",
+              "music-ai",
+              "music-composition",
+              "music-generation",
+              "music-programming",
+              "plugin",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -958,12 +1629,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":musical_note: strongly-timed musical programming language",
+            "homepage": "https://Gwion.github.io/Gwion",
             "id": 69284662,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-10T23:10:02Z",
+            "open_issues": 2,
             "owner": "Gwion",
             "repo": "Gwion",
-            "stars": 580
+            "stars": 580,
+            "topics": [
+              "audio",
+              "chuck",
+              "compiler",
+              "composition",
+              "hacktoberfest",
+              "interpreter",
+              "lang",
+              "language",
+              "music",
+              "programming-language",
+              "real-time",
+              "realtime-audio",
+              "sound",
+              "synth",
+              "synthesis"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -974,12 +1666,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A music composition library for Clojure and Clojurescript.",
+            "homepage": null,
             "id": 6459936,
             "language": "Clojure",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-15T22:24:27Z",
+            "open_issues": 4,
             "owner": "ctford",
             "repo": "leipzig",
-            "stars": 466
+            "stars": 466,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -990,12 +1687,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IanniX is a graphical open-source sequencer, based on Iannis Xenakis works, for digital art. IanniX syncs via Open Sound Control (OSC) events and curves to your real-time environment.",
+            "homepage": "http://www.iannix.org",
             "id": 1632762,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-25T10:42:17Z",
+            "open_issues": 24,
             "owner": "buzzinglight",
             "repo": "IanniX",
-            "stars": 397
+            "stars": 397,
+            "topics": [
+              "digital-art",
+              "graphical",
+              "midi",
+              "osc",
+              "qt5",
+              "sequencer"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -1006,12 +1715,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python's missing \"algorave\" module. Live code music with Python using MIDI, OSC and/or SuperCollider.",
+            "homepage": "https://sardine.raphaelforment.fr",
             "id": 517730135,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-05-19T20:45:01Z",
+            "open_issues": 19,
             "owner": "Bubobubobubobubo",
             "repo": "sardine",
-            "stars": 324
+            "stars": 324,
+            "topics": [
+              "algorave",
+              "algorithmic-music",
+              "audio",
+              "improvisation",
+              "live-coding",
+              "midi",
+              "music",
+              "musicology",
+              "open-source",
+              "osc",
+              "patterns",
+              "python",
+              "sequencer",
+              "synthesis",
+              "toplap"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -1022,12 +1752,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sound Processing Language for Web Audio",
+            "homepage": "http://mohayonao.github.io/CoffeeCollider/",
             "id": 13373374,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-10-09T00:44:23Z",
+            "open_issues": 13,
             "owner": "mohayonao",
             "repo": "CoffeeCollider",
-            "stars": 224
+            "stars": 224,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -1038,12 +1773,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Music programming language. Translates source code into MIDI. Includes a player. Supports MIDI-Karaoke. Includes a MIDI analyzer.",
+            "homepage": "https://www.midica.org/",
             "id": 43568664,
             "language": "Java",
+            "license": "MPL-2.0",
             "last_commit": "2025-12-08T10:12:14Z",
+            "open_issues": 4,
             "owner": "truj",
             "repo": "midica",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "abc",
+              "abc-notation",
+              "alda",
+              "karaoke",
+              "karaoke-player",
+              "lilypond",
+              "midi",
+              "midi-player",
+              "midica",
+              "musescore",
+              "music",
+              "music-composition",
+              "music-programming",
+              "music-programming-language"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -1054,12 +1809,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A small MIDI sequencer DSL designed around vectors and euclidean rhythms",
+            "homepage": "https://discord.gg/UVYAtpYYD2",
             "id": 483377100,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2026-02-05T20:01:17Z",
+            "open_issues": 5,
             "owner": "tarpit-collective",
             "repo": "cane",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "cane",
+              "composition",
+              "cpp",
+              "dsl",
+              "euclidean-rhythms",
+              "jackaudio",
+              "linux-audio",
+              "midi",
+              "minimalist",
+              "music",
+              "music-tracker",
+              "notation",
+              "pipewire",
+              "proglangs-discord",
+              "programming-language",
+              "rhythms",
+              "sequencer",
+              "song",
+              "tracker",
+              "vector-language"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -1070,12 +1851,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "slippery chicken: algorithmic composition software in common lisp and clos",
+            "homepage": "http://michael-edwards.org/sc",
             "id": 93725198,
             "language": "Common Lisp",
+            "license": null,
             "last_commit": "2026-08-24T07:31:56Z",
+            "open_issues": 12,
             "owner": "mdedwards",
             "repo": "slippery-chicken",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "algorithmic-composition",
+              "algorithms",
+              "antescofo",
+              "clm",
+              "common-lisp",
+              "lilypond",
+              "midi",
+              "music",
+              "music-xml",
+              "musicxml-format",
+              "object-oriented",
+              "reaper",
+              "score-following",
+              "score-synthesis"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -1086,12 +1887,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of drums patterns for music lovers 🎵 - Angular 22 - Scala3",
+            "homepage": "https://drumbeatrepo.com/#/",
             "id": 732923985,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:47:49Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T21:10:03Z",
+            "open_issues": 28,
             "owner": "Babali42",
             "repo": "DrumBeatRepo",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "angular",
+              "angular22",
+              "drum-machine",
+              "music",
+              "open-source",
+              "scala3",
+              "scalajs",
+              "sequencer-music",
+              "typescript",
+              "web-audio",
+              "webaudio-api"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         },
@@ -1102,12 +1920,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight TypeScript-based library designed to generate musical scales.",
+            "homepage": "https://www.npmjs.com/package/leiter",
             "id": 685478378,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-14T22:45:06Z",
+            "open_issues": 0,
             "owner": "kad1kad",
             "repo": "leiter",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "music-theory",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
         }
@@ -1126,12 +1952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list about Audio Visualization.",
+                "homepage": null,
                 "id": 54681855,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-08-13T14:34:10Z",
+                "open_issues": 13,
                 "owner": "willianjusten",
                 "repo": "awesome-audio-visualization",
-                "stars": 5066
+                "stars": 5066,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:49:47.456Z"
             },
@@ -1142,12 +1973,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Curated list of python software and packages related to scientific research in audio",
+                "homepage": null,
                 "id": 74242520,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-11T16:45:13Z",
+                "open_issues": 35,
                 "owner": "faroit",
                 "repo": "awesome-python-scientific-audio",
-                "stars": 1707
+                "stars": 1707,
+                "topics": [
+                  "audio",
+                  "awesome-list",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:49:47.456Z"
             },
@@ -1158,12 +1998,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of software, services, and resources to create and distribute music",
+                "homepage": null,
                 "id": 53864797,
                 "language": null,
+                "license": "ISC",
                 "last_commit": "2026-07-19T18:38:38Z",
+                "open_issues": 17,
                 "owner": "ad-si",
                 "repo": "awesome-music-production",
-                "stars": 1482
+                "stars": 1483,
+                "topics": [
+                  "audio",
+                  "instrument",
+                  "midi",
+                  "midi-controller",
+                  "mpe",
+                  "music",
+                  "music-production",
+                  "sound",
+                  "synthesizer"
+                ]
               },
               "first_seen": "2026-08-28T20:49:47.456Z"
             },
@@ -1174,12 +2029,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My curated list of audio DSP and plugin development resources (Github fork)",
+                "homepage": null,
                 "id": 315121782,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-20T03:10:10Z",
+                "open_issues": 0,
                 "owner": "BillyDM",
                 "repo": "awesome-audio-dsp",
-                "stars": 1421
+                "stars": 1421,
+                "topics": [
+                  "algorithms",
+                  "audio",
+                  "audio-analysis",
+                  "audio-applications",
+                  "audio-effect",
+                  "audio-library",
+                  "audio-processing",
+                  "awesome",
+                  "awesome-list",
+                  "c",
+                  "clap",
+                  "cpp",
+                  "d",
+                  "dsp",
+                  "lv2",
+                  "math",
+                  "rust",
+                  "vst",
+                  "vst3"
+                ]
               },
               "first_seen": "2026-08-28T20:49:47.456Z"
             },
@@ -1190,12 +2070,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome WebAudio packages and resources.",
+                "homepage": null,
                 "id": 43116480,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-05T01:54:36Z",
+                "open_issues": 11,
                 "owner": "notthetup",
                 "repo": "awesome-webaudio",
-                "stars": 1396
+                "stars": 1396,
+                "topics": [
+                  "audio",
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "midi",
+                  "webaudio"
+                ]
               },
               "first_seen": "2026-08-28T20:49:47.456Z"
             },
@@ -1206,12 +2098,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome sheet music software, libraries and resources.",
+                "homepage": null,
                 "id": 26535167,
                 "language": null,
+                "license": "ISC",
                 "last_commit": "2026-07-01T11:49:07Z",
+                "open_issues": 5,
                 "owner": "ad-si",
                 "repo": "awesome-sheet-music",
-                "stars": 1026
+                "stars": 1026,
+                "topics": [
+                  "optical-music-recognition",
+                  "sheet-music",
+                  "sheetmusic"
+                ]
               },
               "first_seen": "2026-08-28T20:49:47.456Z"
             },
@@ -1222,12 +2123,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
+                "homepage": null,
                 "id": 714008096,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-15T08:49:18Z",
+                "open_issues": 11,
                 "owner": "Curated-Awesome-Lists",
                 "repo": "awesome-ai-music-generation",
-                "stars": 493
+                "stars": 493,
+                "topics": [
+                  "ai",
+                  "awesome",
+                  "awesome-list",
+                  "generative-ai",
+                  "music-generation"
+                ]
               },
               "first_seen": "2026-08-28T20:49:47.456Z"
             },
@@ -1238,12 +2150,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome list of websites dedicated to listening to music",
+                "homepage": null,
                 "id": 117863865,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-14T15:27:58Z",
+                "open_issues": 3,
                 "owner": "ybayle",
                 "repo": "awesome-music-listening",
-                "stars": 161
+                "stars": 161,
+                "topics": [
+                  "awesome",
+                  "list",
+                  "listenings",
+                  "music",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T20:49:47.456Z"
             },
@@ -1254,12 +2177,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome music programming languages, libraries, frameworks and tools.",
+                "homepage": null,
                 "id": 934156611,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-04-07T06:59:19Z",
+                "open_issues": 0,
                 "owner": "zoejane",
                 "repo": "awesome-music-programming",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "music",
+                  "music-composition",
+                  "music-generation",
+                  "music-programming"
+                ]
               },
               "first_seen": "2026-08-28T20:49:47.456Z"
             }
@@ -1273,15 +2208,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:49:47.456Z",
+    "last_updated": "2026-08-29T04:22:10.106Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Music Projects",
+      "homepage": null,
       "id": 47076519,
       "language": null,
+      "license": null,
       "last_commit": "2026-05-27T20:46:02Z",
+      "open_issues": 26,
       "owner": "noteflakes",
       "repo": "awesome-music",
-      "stars": 2483
+      "stars": 2483,
+      "topics": [
+        "audio",
+        "awesome",
+        "awesome-list",
+        "free-music-scores",
+        "lilypond",
+        "list",
+        "midi",
+        "music-notation",
+        "music-programming",
+        "music-scores",
+        "sheet-music"
+      ]
     },
     "original_repository_sha": "b4ce518c33188e0f49dacca6b7262c2770deaf68",
     "enhanced_repository": "enhansome/enhansome-music",
