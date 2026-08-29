@@ -15,11 +15,11 @@
             "id": 32921736,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T15:25:10Z",
-            "open_issues": 1676,
+            "last_commit": "2026-08-29T09:15:36Z",
+            "open_issues": 1679,
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 17652,
+            "stars": 17655,
             "topics": [
               "audio",
               "cross-platform",
@@ -46,7 +46,7 @@
             "open_issues": 177,
             "owner": "openutau",
             "repo": "OpenUtau",
-            "stars": 4238,
+            "stars": 4239,
             "topics": [
               "music",
               "openutau",
@@ -330,7 +330,7 @@
             "open_issues": 15,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17237,
+            "stars": 17239,
             "topics": [
               "audio",
               "hacktoberfest",
@@ -399,7 +399,7 @@
             "open_issues": 223,
             "owner": "enzo1982",
             "repo": "freac",
-            "stars": 1947,
+            "stars": 1949,
             "topics": [
               "aac",
               "alac",
@@ -439,7 +439,7 @@
             "open_issues": 176,
             "owner": "whipper-team",
             "repo": "whipper",
-            "stars": 1404,
+            "stars": 1405,
             "topics": [
               "audio",
               "cd-da-ripper",
@@ -475,7 +475,7 @@
             "open_issues": 63,
             "owner": "Chevron7Locked",
             "repo": "kima-hub",
-            "stars": 1205,
+            "stars": 1206,
             "topics": [
               "audiobook-player",
               "lyrics",
@@ -1094,7 +1094,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T11:34:09Z",
-            "open_issues": 4144,
+            "open_issues": 4145,
             "owner": "musescore",
             "repo": "MuseScore",
             "stars": 15036,
@@ -1148,7 +1148,7 @@
             "open_issues": 92,
             "owner": "opensheetmusicdisplay",
             "repo": "opensheetmusicdisplay",
-            "stars": 1947,
+            "stars": 1948,
             "topics": [
               "digital-sheet-music",
               "headless",
@@ -1199,7 +1199,7 @@
             "language": "C++",
             "license": "LGPL-3.0",
             "last_commit": "2026-08-27T15:12:49Z",
-            "open_issues": 173,
+            "open_issues": 174,
             "owner": "rism-digital",
             "repo": "verovio",
             "stars": 914,
@@ -1231,7 +1231,7 @@
             "language": "C++",
             "license": "LGPL-3.0",
             "last_commit": "2026-08-27T15:12:49Z",
-            "open_issues": 173,
+            "open_issues": 174,
             "owner": "rism-digital",
             "repo": "verovio",
             "stars": 914,
@@ -2208,7 +2208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:22:10.106Z",
+    "last_updated": "2026-08-29T14:27:06.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Music Projects",
@@ -2220,7 +2220,7 @@
       "open_issues": 26,
       "owner": "noteflakes",
       "repo": "awesome-music",
-      "stars": 2483,
+      "stars": 2484,
       "topics": [
         "audio",
         "awesome",
