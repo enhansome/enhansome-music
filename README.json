@@ -15,11 +15,11 @@
             "id": 32921736,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T14:06:21Z",
-            "open_issues": 1803,
+            "last_commit": "2026-09-24T09:59:52Z",
+            "open_issues": 1796,
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 18540,
+            "stars": 18554,
             "topics": [
               "audio",
               "cross-platform",
@@ -42,11 +42,11 @@
             "id": 27212980,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-23T04:19:03Z",
-            "open_issues": 132,
+            "last_commit": "2026-09-24T10:19:54Z",
+            "open_issues": 127,
             "owner": "openutau",
             "repo": "OpenUtau",
-            "stars": 4324,
+            "stars": 4325,
             "topics": [
               "music",
               "openutau",
@@ -125,7 +125,7 @@
             "open_issues": 418,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25351,
+            "stars": 25352,
             "topics": [
               "audio",
               "audio-library",
@@ -155,7 +155,7 @@
             "open_issues": 51,
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8623,
+            "stars": 8625,
             "topics": [
               "audio",
               "dsp",
@@ -204,7 +204,7 @@
             "open_issues": 16,
             "owner": "libAudioFlux",
             "repo": "audioFlux",
-            "stars": 3365,
+            "stars": 3366,
             "topics": [
               "audio",
               "audio-analysis",
@@ -326,11 +326,11 @@
             "id": 47495360,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-23T12:42:09Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-24T07:43:42Z",
+            "open_issues": 20,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17260,
+            "stars": 17264,
             "topics": [
               "audio",
               "hacktoberfest",
@@ -359,7 +359,7 @@
             "open_issues": 34,
             "owner": "sergree",
             "repo": "matchering",
-            "stars": 2644,
+            "stars": 2645,
             "topics": [
               "audio",
               "docker-image",
@@ -399,7 +399,7 @@
             "open_issues": 223,
             "owner": "enzo1982",
             "repo": "freac",
-            "stars": 1969,
+            "stars": 1970,
             "topics": [
               "aac",
               "alac",
@@ -472,7 +472,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-08-24T18:35:38Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "Chevron7Locked",
             "repo": "kima-hub",
             "stars": 1281,
@@ -655,8 +655,8 @@
             "id": 78468410,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-23T00:39:11Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-23T18:06:18Z",
+            "open_issues": 5,
             "owner": "jack-cli-cd-ripper",
             "repo": "jack",
             "stars": 18,
@@ -1037,7 +1037,7 @@
             "open_issues": 4,
             "owner": "mididings",
             "repo": "mididings",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "live-music-automation",
               "midi-router-linux",
@@ -1093,11 +1093,11 @@
             "id": 4454793,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T11:59:26Z",
-            "open_issues": 4257,
+            "last_commit": "2026-09-24T12:12:55Z",
+            "open_issues": 4263,
             "owner": "musescore",
             "repo": "MuseScore",
-            "stars": 15132,
+            "stars": 15133,
             "topics": [
               "cpp",
               "musescore",
@@ -1145,10 +1145,10 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-19T10:15:37Z",
-            "open_issues": 88,
+            "open_issues": 90,
             "owner": "opensheetmusicdisplay",
             "repo": "opensheetmusicdisplay",
-            "stars": 1970,
+            "stars": 1971,
             "topics": [
               "digital-sheet-music",
               "headless",
@@ -1202,7 +1202,7 @@
             "open_issues": 174,
             "owner": "rism-digital",
             "repo": "verovio",
-            "stars": 929,
+            "stars": 930,
             "topics": [
               "digital-scores",
               "javascript",
@@ -1234,7 +1234,7 @@
             "open_issues": 174,
             "owner": "rism-digital",
             "repo": "verovio",
-            "stars": 929,
+            "stars": 930,
             "topics": [
               "digital-scores",
               "javascript",
@@ -1468,7 +1468,7 @@
             "id": 1115530795,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T17:56:35Z",
+            "last_commit": "2026-09-24T02:24:08Z",
             "open_issues": 0,
             "owner": "DrakeB1234",
             "repo": "VectorScore",
@@ -1499,7 +1499,7 @@
             "open_issues": 96,
             "owner": "overtone",
             "repo": "overtone",
-            "stars": 6219,
+            "stars": 6220,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -1520,7 +1520,7 @@
             "open_issues": 5,
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5946,
+            "stars": 5945,
             "topics": [
               "alda",
               "hacktoberfest",
@@ -1724,7 +1724,7 @@
             "open_issues": 19,
             "owner": "Bubobubobubobubo",
             "repo": "sardine",
-            "stars": 324,
+            "stars": 323,
             "topics": [
               "algorave",
               "algorithmic-music",
@@ -1818,7 +1818,7 @@
             "open_issues": 5,
             "owner": "tarpit-collective",
             "repo": "cane",
-            "stars": 111,
+            "stars": 110,
             "topics": [
               "cane",
               "composition",
@@ -1961,7 +1961,7 @@
                 "open_issues": 16,
                 "owner": "willianjusten",
                 "repo": "awesome-audio-visualization",
-                "stars": 5078,
+                "stars": 5079,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:47.456Z"
@@ -2007,7 +2007,7 @@
                 "open_issues": 41,
                 "owner": "ad-si",
                 "repo": "awesome-music-production",
-                "stars": 1503,
+                "stars": 1506,
                 "topics": [
                   "audio",
                   "instrument",
@@ -2038,7 +2038,7 @@
                 "open_issues": 0,
                 "owner": "BillyDM",
                 "repo": "awesome-audio-dsp",
-                "stars": 1436,
+                "stars": 1437,
                 "topics": [
                   "algorithms",
                   "audio",
@@ -2076,10 +2076,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-06-05T01:54:36Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "notthetup",
                 "repo": "awesome-webaudio",
-                "stars": 1397,
+                "stars": 1398,
                 "topics": [
                   "audio",
                   "awesome",
@@ -2107,7 +2107,7 @@
                 "open_issues": 7,
                 "owner": "ad-si",
                 "repo": "awesome-sheet-music",
-                "stars": 1032,
+                "stars": 1034,
                 "topics": [
                   "optical-music-recognition",
                   "sheet-music",
@@ -2208,7 +2208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T14:13:22.989Z",
+    "last_updated": "2026-09-24T14:11:21.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Music Projects",
