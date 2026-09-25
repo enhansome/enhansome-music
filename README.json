@@ -15,11 +15,11 @@
             "id": 32921736,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T09:59:52Z",
-            "open_issues": 1796,
+            "last_commit": "2026-09-25T12:20:45Z",
+            "open_issues": 1806,
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 18554,
+            "stars": 18560,
             "topics": [
               "audio",
               "cross-platform",
@@ -42,11 +42,11 @@
             "id": 27212980,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-24T10:19:54Z",
-            "open_issues": 127,
+            "last_commit": "2026-09-25T03:05:40Z",
+            "open_issues": 130,
             "owner": "openutau",
             "repo": "OpenUtau",
-            "stars": 4325,
+            "stars": 4327,
             "topics": [
               "music",
               "openutau",
@@ -77,7 +77,7 @@
             "open_issues": 19,
             "owner": "stargatedaw",
             "repo": "stargate",
-            "stars": 875,
+            "stars": 876,
             "topics": [
               "audio-dsp",
               "audio-effect",
@@ -125,7 +125,7 @@
             "open_issues": 418,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25352,
+            "stars": 25351,
             "topics": [
               "audio",
               "audio-library",
@@ -151,11 +151,11 @@
             "id": 6309729,
             "language": "Python",
             "license": "ISC",
-            "last_commit": "2026-09-21T17:47:07Z",
+            "last_commit": "2026-09-24T16:07:24Z",
             "open_issues": 51,
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8625,
+            "stars": 8630,
             "topics": [
               "audio",
               "dsp",
@@ -204,7 +204,7 @@
             "open_issues": 16,
             "owner": "libAudioFlux",
             "repo": "audioFlux",
-            "stars": 3366,
+            "stars": 3367,
             "topics": [
               "audio",
               "audio-analysis",
@@ -242,10 +242,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2018-09-25T12:29:23Z",
-            "open_issues": 106,
+            "open_issues": 104,
             "owner": "kolber",
             "repo": "audiojs",
-            "stars": 2081,
+            "stars": 2080,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -326,11 +326,11 @@
             "id": 47495360,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-24T07:43:42Z",
+            "last_commit": "2026-09-25T14:04:59Z",
             "open_issues": 20,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17264,
+            "stars": 17263,
             "topics": [
               "audio",
               "hacktoberfest",
@@ -359,7 +359,7 @@
             "open_issues": 34,
             "owner": "sergree",
             "repo": "matchering",
-            "stars": 2645,
+            "stars": 2646,
             "topics": [
               "audio",
               "docker-image",
@@ -399,7 +399,7 @@
             "open_issues": 223,
             "owner": "enzo1982",
             "repo": "freac",
-            "stars": 1970,
+            "stars": 1972,
             "topics": [
               "aac",
               "alac",
@@ -439,7 +439,7 @@
             "open_issues": 192,
             "owner": "whipper-team",
             "repo": "whipper",
-            "stars": 1415,
+            "stars": 1416,
             "topics": [
               "audio",
               "cd-da-ripper",
@@ -507,7 +507,7 @@
             "open_issues": 34,
             "owner": "belangeo",
             "repo": "cecilia5",
-            "stars": 289,
+            "stars": 290,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -655,8 +655,8 @@
             "id": 78468410,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-23T18:06:18Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-24T17:11:02Z",
+            "open_issues": 8,
             "owner": "jack-cli-cd-ripper",
             "repo": "jack",
             "stars": 18,
@@ -739,7 +739,7 @@
             "open_issues": 1,
             "owner": "cellist",
             "repo": "Lilypond-Sheet-Music",
-            "stars": 161,
+            "stars": 162,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -760,7 +760,7 @@
             "open_issues": 1,
             "owner": "wbsoft",
             "repo": "lilymusic",
-            "stars": 78,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -901,7 +901,7 @@
             "open_issues": 52,
             "owner": "cbdevnet",
             "repo": "midimonster",
-            "stars": 604,
+            "stars": 605,
             "topics": [
               "art-net",
               "artnet",
@@ -938,7 +938,7 @@
             "open_issues": 27,
             "owner": "jjazzboss",
             "repo": "JJazzLab",
-            "stars": 591,
+            "stars": 592,
             "topics": [
               "arranger",
               "audio",
@@ -1037,7 +1037,7 @@
             "open_issues": 4,
             "owner": "mididings",
             "repo": "mididings",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "live-music-automation",
               "midi-router-linux",
@@ -1093,11 +1093,11 @@
             "id": 4454793,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T12:12:55Z",
-            "open_issues": 4263,
+            "last_commit": "2026-09-25T12:40:23Z",
+            "open_issues": 4272,
             "owner": "musescore",
             "repo": "MuseScore",
-            "stars": 15133,
+            "stars": 15136,
             "topics": [
               "cpp",
               "musescore",
@@ -1144,8 +1144,8 @@
             "id": 51307118,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-19T10:15:37Z",
-            "open_issues": 90,
+            "last_commit": "2026-09-25T14:15:30Z",
+            "open_issues": 86,
             "owner": "opensheetmusicdisplay",
             "repo": "opensheetmusicdisplay",
             "stars": 1971,
@@ -1178,10 +1178,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-06T12:00:22Z",
-            "open_issues": 458,
+            "open_issues": 460,
             "owner": "frescobaldi",
             "repo": "frescobaldi",
-            "stars": 951,
+            "stars": 952,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -1198,8 +1198,8 @@
             "id": 15762693,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-22T08:51:02Z",
-            "open_issues": 174,
+            "last_commit": "2026-09-25T12:40:42Z",
+            "open_issues": 175,
             "owner": "rism-digital",
             "repo": "verovio",
             "stars": 930,
@@ -1230,8 +1230,8 @@
             "id": 15762693,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-22T08:51:02Z",
-            "open_issues": 174,
+            "last_commit": "2026-09-25T12:40:42Z",
+            "open_issues": 175,
             "owner": "rism-digital",
             "repo": "verovio",
             "stars": 930,
@@ -1287,7 +1287,7 @@
             "open_issues": 30,
             "owner": "openlilylib",
             "repo": "snippets",
-            "stars": 130,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -1388,7 +1388,7 @@
             "open_issues": 1,
             "owner": "noteflakes",
             "repo": "ripple",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -1468,7 +1468,7 @@
             "id": 1115530795,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T02:24:08Z",
+            "last_commit": "2026-09-25T04:20:35Z",
             "open_issues": 0,
             "owner": "DrakeB1234",
             "repo": "VectorScore",
@@ -1724,7 +1724,7 @@
             "open_issues": 19,
             "owner": "Bubobubobubobubo",
             "repo": "sardine",
-            "stars": 323,
+            "stars": 325,
             "topics": [
               "algorave",
               "algorithmic-music",
@@ -1782,7 +1782,7 @@
             "open_issues": 4,
             "owner": "truj",
             "repo": "midica",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "abc",
               "abc-notation",
@@ -1961,7 +1961,7 @@
                 "open_issues": 16,
                 "owner": "willianjusten",
                 "repo": "awesome-audio-visualization",
-                "stars": 5079,
+                "stars": 5080,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:47.456Z"
@@ -2004,7 +2004,7 @@
                 "language": null,
                 "license": "ISC",
                 "last_commit": "2026-09-23T08:31:13Z",
-                "open_issues": 41,
+                "open_issues": 43,
                 "owner": "ad-si",
                 "repo": "awesome-music-production",
                 "stars": 1506,
@@ -2104,7 +2104,7 @@
                 "language": null,
                 "license": "ISC",
                 "last_commit": "2026-07-01T11:49:07Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "ad-si",
                 "repo": "awesome-sheet-music",
                 "stars": 1034,
@@ -2186,7 +2186,7 @@
                 "open_issues": 0,
                 "owner": "zoejane",
                 "repo": "awesome-music-programming",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2208,7 +2208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T14:11:21.763Z",
+    "last_updated": "2026-09-25T14:35:28.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Music Projects",
@@ -2217,10 +2217,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-05-27T20:46:02Z",
-      "open_issues": 43,
+      "open_issues": 44,
       "owner": "noteflakes",
       "repo": "awesome-music",
-      "stars": 2498,
+      "stars": 2499,
       "topics": [
         "audio",
         "awesome",
