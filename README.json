@@ -15,11 +15,11 @@
             "id": 32921736,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T14:37:32Z",
-            "open_issues": 1844,
+            "last_commit": "2026-10-09T11:48:56Z",
+            "open_issues": 1848,
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 18676,
+            "stars": 18682,
             "topics": [
               "audio",
               "cross-platform",
@@ -42,11 +42,11 @@
             "id": 27212980,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-08T03:37:04Z",
-            "open_issues": 146,
+            "last_commit": "2026-10-09T12:24:40Z",
+            "open_issues": 145,
             "owner": "openutau",
             "repo": "OpenUtau",
-            "stars": 4384,
+            "stars": 4392,
             "topics": [
               "music",
               "openutau",
@@ -155,7 +155,7 @@
             "open_issues": 51,
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8659,
+            "stars": 8662,
             "topics": [
               "audio",
               "dsp",
@@ -183,7 +183,7 @@
             "open_issues": 141,
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3923,
+            "stars": 3924,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -245,7 +245,7 @@
             "open_issues": 104,
             "owner": "kolber",
             "repo": "audiojs",
-            "stars": 2079,
+            "stars": 2078,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -326,11 +326,11 @@
             "id": 47495360,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-08T16:10:18Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-09T15:17:55Z",
+            "open_issues": 16,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17273,
+            "stars": 17275,
             "topics": [
               "audio",
               "hacktoberfest",
@@ -399,7 +399,7 @@
             "open_issues": 225,
             "owner": "enzo1982",
             "repo": "freac",
-            "stars": 1974,
+            "stars": 1976,
             "topics": [
               "aac",
               "alac",
@@ -472,10 +472,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-08-24T18:35:38Z",
-            "open_issues": 68,
+            "open_issues": 70,
             "owner": "Chevron7Locked",
             "repo": "kima-hub",
-            "stars": 1285,
+            "stars": 1286,
             "topics": [
               "audiobook-player",
               "lyrics",
@@ -554,7 +554,7 @@
             "open_issues": 0,
             "owner": "KDE",
             "repo": "k3b",
-            "stars": 235,
+            "stars": 236,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -873,7 +873,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-16T17:16:31Z",
-            "open_issues": 124,
+            "open_issues": 125,
             "owner": "mido",
             "repo": "mido",
             "stars": 1646,
@@ -938,7 +938,7 @@
             "open_issues": 33,
             "owner": "jjazzboss",
             "repo": "JJazzLab",
-            "stars": 599,
+            "stars": 601,
             "topics": [
               "arranger",
               "audio",
@@ -998,7 +998,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "🪇 Gingo[duino]: Music theory engine for embedded systems. Build musical instruments and controllers that interact with people and speak MIDI 1.0 and 2.0.",
+            "description": "Music theory engine for embedded systems. Build musical instruments and controllers that interact with people and speak MIDI 1.0 and 2.0.",
             "homepage": null,
             "id": 1160094334,
             "language": "C++",
@@ -1093,11 +1093,11 @@
             "id": 4454793,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T15:39:03Z",
+            "last_commit": "2026-10-09T16:02:10Z",
             "open_issues": 4305,
             "owner": "musescore",
             "repo": "MuseScore",
-            "stars": 15205,
+            "stars": 15213,
             "topics": [
               "cpp",
               "musescore",
@@ -1127,7 +1127,7 @@
             "open_issues": 53,
             "owner": "0xfe",
             "repo": "vexflow",
-            "stars": 4392,
+            "stars": 4394,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -1144,11 +1144,11 @@
             "id": 51307118,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-08T00:01:02Z",
-            "open_issues": 79,
+            "last_commit": "2026-10-09T12:23:48Z",
+            "open_issues": 74,
             "owner": "opensheetmusicdisplay",
             "repo": "opensheetmusicdisplay",
-            "stars": 1983,
+            "stars": 1984,
             "topics": [
               "digital-sheet-music",
               "headless",
@@ -1178,7 +1178,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-06T12:00:22Z",
-            "open_issues": 464,
+            "open_issues": 465,
             "owner": "frescobaldi",
             "repo": "frescobaldi",
             "stars": 953,
@@ -1198,8 +1198,8 @@
             "id": 15762693,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-08T08:16:37Z",
-            "open_issues": 178,
+            "last_commit": "2026-10-09T12:51:40Z",
+            "open_issues": 179,
             "owner": "rism-digital",
             "repo": "verovio",
             "stars": 942,
@@ -1230,8 +1230,8 @@
             "id": 15762693,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-08T08:16:37Z",
-            "open_issues": 178,
+            "last_commit": "2026-10-09T12:51:40Z",
+            "open_issues": 179,
             "owner": "rism-digital",
             "repo": "verovio",
             "stars": 942,
@@ -1520,7 +1520,7 @@
             "open_issues": 6,
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5952,
+            "stars": 5953,
             "topics": [
               "alda",
               "hacktoberfest",
@@ -1577,7 +1577,7 @@
             "open_issues": 155,
             "owner": "ccrma",
             "repo": "chuck",
-            "stars": 1047,
+            "stars": 1048,
             "topics": [
               "audio",
               "chuck",
@@ -1605,7 +1605,7 @@
             "open_issues": 3,
             "owner": "tuneflow",
             "repo": "tuneflow-py",
-            "stars": 899,
+            "stars": 900,
             "topics": [
               "ai",
               "ai-music",
@@ -1961,7 +1961,7 @@
                 "open_issues": 19,
                 "owner": "willianjusten",
                 "repo": "awesome-audio-visualization",
-                "stars": 5087,
+                "stars": 5084,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:47.456Z"
@@ -2007,7 +2007,7 @@
                 "open_issues": 48,
                 "owner": "ad-si",
                 "repo": "awesome-music-production",
-                "stars": 1517,
+                "stars": 1518,
                 "topics": [
                   "audio",
                   "instrument",
@@ -2034,7 +2034,7 @@
                 "id": 315121782,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-08-20T03:10:10Z",
+                "last_commit": "2026-10-08T22:48:47Z",
                 "open_issues": 0,
                 "owner": "BillyDM",
                 "repo": "awesome-audio-dsp",
@@ -2076,10 +2076,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-06-05T01:54:36Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "notthetup",
                 "repo": "awesome-webaudio",
-                "stars": 1398,
+                "stars": 1399,
                 "topics": [
                   "audio",
                   "awesome",
@@ -2132,7 +2132,7 @@
                 "open_issues": 13,
                 "owner": "Curated-Awesome-Lists",
                 "repo": "awesome-ai-music-generation",
-                "stars": 499,
+                "stars": 500,
                 "topics": [
                   "ai",
                   "awesome",
@@ -2208,7 +2208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T16:26:35.222Z",
+    "last_updated": "2026-10-09T16:09:40.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Music Projects",
@@ -2220,7 +2220,7 @@
       "open_issues": 47,
       "owner": "noteflakes",
       "repo": "awesome-music",
-      "stars": 2514,
+      "stars": 2516,
       "topics": [
         "audio",
         "awesome",
