@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T11:48:56Z",
-            "open_issues": 1848,
+            "open_issues": 1851,
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 18682,
+            "stars": 18690,
             "topics": [
               "audio",
               "cross-platform",
@@ -46,7 +46,7 @@
             "open_issues": 145,
             "owner": "openutau",
             "repo": "OpenUtau",
-            "stars": 4392,
+            "stars": 4394,
             "topics": [
               "music",
               "openutau",
@@ -125,7 +125,7 @@
             "open_issues": 420,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25359,
+            "stars": 25360,
             "topics": [
               "audio",
               "audio-library",
@@ -155,7 +155,7 @@
             "open_issues": 51,
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8662,
+            "stars": 8664,
             "topics": [
               "audio",
               "dsp",
@@ -183,7 +183,7 @@
             "open_issues": 141,
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3924,
+            "stars": 3923,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -204,7 +204,7 @@
             "open_issues": 16,
             "owner": "libAudioFlux",
             "repo": "audioFlux",
-            "stars": 3371,
+            "stars": 3372,
             "topics": [
               "audio",
               "audio-analysis",
@@ -245,7 +245,7 @@
             "open_issues": 104,
             "owner": "kolber",
             "repo": "audiojs",
-            "stars": 2078,
+            "stars": 2077,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -326,8 +326,8 @@
             "id": 47495360,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-09T15:17:55Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-10T15:17:09Z",
+            "open_issues": 17,
             "owner": "koel",
             "repo": "koel",
             "stars": 17275,
@@ -399,7 +399,7 @@
             "open_issues": 225,
             "owner": "enzo1982",
             "repo": "freac",
-            "stars": 1976,
+            "stars": 1977,
             "topics": [
               "aac",
               "alac",
@@ -475,7 +475,7 @@
             "open_issues": 70,
             "owner": "Chevron7Locked",
             "repo": "kima-hub",
-            "stars": 1286,
+            "stars": 1287,
             "topics": [
               "audiobook-player",
               "lyrics",
@@ -735,11 +735,11 @@
             "id": 447235,
             "language": "LilyPond",
             "license": null,
-            "last_commit": "2026-10-06T15:43:55Z",
+            "last_commit": "2026-10-10T12:14:53Z",
             "open_issues": 1,
             "owner": "cellist",
             "repo": "Lilypond-Sheet-Music",
-            "stars": 162,
+            "stars": 163,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -876,7 +876,7 @@
             "open_issues": 125,
             "owner": "mido",
             "repo": "mido",
-            "stars": 1646,
+            "stars": 1647,
             "topics": [
               "midi",
               "midifile",
@@ -1093,11 +1093,11 @@
             "id": 4454793,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T16:02:10Z",
-            "open_issues": 4305,
+            "last_commit": "2026-10-09T17:30:31Z",
+            "open_issues": 4306,
             "owner": "musescore",
             "repo": "MuseScore",
-            "stars": 15213,
+            "stars": 15217,
             "topics": [
               "cpp",
               "musescore",
@@ -1127,7 +1127,7 @@
             "open_issues": 53,
             "owner": "0xfe",
             "repo": "vexflow",
-            "stars": 4394,
+            "stars": 4395,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -1144,11 +1144,11 @@
             "id": 51307118,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-09T12:23:48Z",
-            "open_issues": 74,
+            "last_commit": "2026-10-10T13:41:03Z",
+            "open_issues": 75,
             "owner": "opensheetmusicdisplay",
             "repo": "opensheetmusicdisplay",
-            "stars": 1984,
+            "stars": 1985,
             "topics": [
               "digital-sheet-music",
               "headless",
@@ -1199,7 +1199,7 @@
             "language": "C++",
             "license": "LGPL-3.0",
             "last_commit": "2026-10-09T12:51:40Z",
-            "open_issues": 179,
+            "open_issues": 180,
             "owner": "rism-digital",
             "repo": "verovio",
             "stars": 942,
@@ -1231,7 +1231,7 @@
             "language": "C++",
             "license": "LGPL-3.0",
             "last_commit": "2026-10-09T12:51:40Z",
-            "open_issues": 179,
+            "open_issues": 180,
             "owner": "rism-digital",
             "repo": "verovio",
             "stars": 942,
@@ -1520,7 +1520,7 @@
             "open_issues": 6,
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5953,
+            "stars": 5954,
             "topics": [
               "alda",
               "hacktoberfest",
@@ -1549,7 +1549,7 @@
             "open_issues": 39,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5110,
+            "stars": 5111,
             "topics": [
               "esoteric-language",
               "livecoding",
@@ -1892,11 +1892,11 @@
             "id": 732923985,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T20:48:39Z",
+            "last_commit": "2026-10-10T07:18:08Z",
             "open_issues": 26,
             "owner": "Babali42",
             "repo": "DrumBeatRepo",
-            "stars": 30,
+            "stars": 31,
             "topics": [
               "angular",
               "angular22",
@@ -1979,7 +1979,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-11T14:01:38Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "faroit",
                 "repo": "awesome-python-scientific-audio",
                 "stars": 1719,
@@ -2038,7 +2038,7 @@
                 "open_issues": 0,
                 "owner": "BillyDM",
                 "repo": "awesome-audio-dsp",
-                "stars": 1445,
+                "stars": 1447,
                 "topics": [
                   "algorithms",
                   "audio",
@@ -2076,7 +2076,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-06-05T01:54:36Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "notthetup",
                 "repo": "awesome-webaudio",
                 "stars": 1399,
@@ -2186,7 +2186,7 @@
                 "open_issues": 0,
                 "owner": "zoejane",
                 "repo": "awesome-music-programming",
-                "stars": 155,
+                "stars": 156,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2208,7 +2208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:09:40.067Z",
+    "last_updated": "2026-10-10T15:20:46.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Music Projects",
@@ -2220,7 +2220,7 @@
       "open_issues": 47,
       "owner": "noteflakes",
       "repo": "awesome-music",
-      "stars": 2516,
+      "stars": 2517,
       "topics": [
         "audio",
         "awesome",
