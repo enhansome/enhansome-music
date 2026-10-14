@@ -15,11 +15,11 @@
             "id": 32921736,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T14:24:30Z",
-            "open_issues": 1874,
+            "last_commit": "2026-10-14T11:26:30Z",
+            "open_issues": 1876,
             "owner": "audacity",
             "repo": "audacity",
-            "stars": 18727,
+            "stars": 18733,
             "topics": [
               "audio",
               "cross-platform",
@@ -42,11 +42,11 @@
             "id": 27212980,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-12T12:32:46Z",
-            "open_issues": 149,
+            "last_commit": "2026-10-14T12:26:43Z",
+            "open_issues": 143,
             "owner": "openutau",
             "repo": "OpenUtau",
-            "stars": 4405,
+            "stars": 4409,
             "topics": [
               "music",
               "openutau",
@@ -125,7 +125,7 @@
             "open_issues": 420,
             "owner": "goldfire",
             "repo": "howler.js",
-            "stars": 25379,
+            "stars": 25382,
             "topics": [
               "audio",
               "audio-library",
@@ -155,7 +155,7 @@
             "open_issues": 51,
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8674,
+            "stars": 8678,
             "topics": [
               "audio",
               "dsp",
@@ -183,7 +183,7 @@
             "open_issues": 141,
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3923,
+            "stars": 3922,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -326,11 +326,11 @@
             "id": 47495360,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-13T16:50:53Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-13T22:29:14Z",
+            "open_issues": 16,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17276,
+            "stars": 17280,
             "topics": [
               "audio",
               "hacktoberfest",
@@ -359,7 +359,7 @@
             "open_issues": 34,
             "owner": "sergree",
             "repo": "matchering",
-            "stars": 2654,
+            "stars": 2658,
             "topics": [
               "audio",
               "docker-image",
@@ -472,10 +472,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-12T20:48:08Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "Chevron7Locked",
             "repo": "kima-hub",
-            "stars": 1285,
+            "stars": 1284,
             "topics": [
               "audiobook-player",
               "lyrics",
@@ -739,7 +739,7 @@
             "open_issues": 1,
             "owner": "cellist",
             "repo": "Lilypond-Sheet-Music",
-            "stars": 163,
+            "stars": 164,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -1093,11 +1093,11 @@
             "id": 4454793,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T16:30:25Z",
-            "open_issues": 4316,
+            "last_commit": "2026-10-14T12:36:49Z",
+            "open_issues": 4323,
             "owner": "musescore",
             "repo": "MuseScore",
-            "stars": 15235,
+            "stars": 15238,
             "topics": [
               "cpp",
               "musescore",
@@ -1145,10 +1145,10 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-12T17:54:59Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "opensheetmusicdisplay",
             "repo": "opensheetmusicdisplay",
-            "stars": 1987,
+            "stars": 1988,
             "topics": [
               "digital-sheet-music",
               "headless",
@@ -1198,11 +1198,11 @@
             "id": 15762693,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-13T11:37:33Z",
-            "open_issues": 184,
+            "last_commit": "2026-10-14T12:55:26Z",
+            "open_issues": 181,
             "owner": "rism-digital",
             "repo": "verovio",
-            "stars": 945,
+            "stars": 947,
             "topics": [
               "digital-scores",
               "javascript",
@@ -1230,11 +1230,11 @@
             "id": 15762693,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-13T11:37:33Z",
-            "open_issues": 184,
+            "last_commit": "2026-10-14T12:55:26Z",
+            "open_issues": 181,
             "owner": "rism-digital",
             "repo": "verovio",
-            "stars": 945,
+            "stars": 947,
             "topics": [
               "digital-scores",
               "javascript",
@@ -1499,7 +1499,7 @@
             "open_issues": 96,
             "owner": "overtone",
             "repo": "overtone",
-            "stars": 6228,
+            "stars": 6229,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:47.456Z"
@@ -1546,10 +1546,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-11-16T18:19:05Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "hundredrabbits",
             "repo": "Orca",
-            "stars": 5112,
+            "stars": 5114,
             "topics": [
               "esoteric-language",
               "livecoding",
@@ -1638,7 +1638,7 @@
             "open_issues": 2,
             "owner": "Gwion",
             "repo": "Gwion",
-            "stars": 580,
+            "stars": 581,
             "topics": [
               "audio",
               "chuck",
@@ -1696,7 +1696,7 @@
             "open_issues": 24,
             "owner": "buzzinglight",
             "repo": "IanniX",
-            "stars": 400,
+            "stars": 401,
             "topics": [
               "digital-art",
               "graphical",
@@ -1961,7 +1961,7 @@
                 "open_issues": 20,
                 "owner": "willianjusten",
                 "repo": "awesome-audio-visualization",
-                "stars": 5086,
+                "stars": 5087,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:47.456Z"
@@ -2003,7 +2003,7 @@
                 "id": 53864797,
                 "language": null,
                 "license": "ISC",
-                "last_commit": "2026-10-05T10:58:10Z",
+                "last_commit": "2026-10-14T09:07:49Z",
                 "open_issues": 48,
                 "owner": "ad-si",
                 "repo": "awesome-music-production",
@@ -2038,7 +2038,7 @@
                 "open_issues": 0,
                 "owner": "BillyDM",
                 "repo": "awesome-audio-dsp",
-                "stars": 1449,
+                "stars": 1450,
                 "topics": [
                   "algorithms",
                   "audio",
@@ -2076,10 +2076,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-06-05T01:54:36Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "notthetup",
                 "repo": "awesome-webaudio",
-                "stars": 1401,
+                "stars": 1402,
                 "topics": [
                   "audio",
                   "awesome",
@@ -2107,7 +2107,7 @@
                 "open_issues": 10,
                 "owner": "ad-si",
                 "repo": "awesome-sheet-music",
-                "stars": 1038,
+                "stars": 1039,
                 "topics": [
                   "optical-music-recognition",
                   "sheet-music",
@@ -2208,7 +2208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T16:55:32.716Z",
+    "last_updated": "2026-10-14T14:29:34.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Music Projects",
@@ -2220,7 +2220,7 @@
       "open_issues": 47,
       "owner": "noteflakes",
       "repo": "awesome-music",
-      "stars": 2519,
+      "stars": 2521,
       "topics": [
         "audio",
         "awesome",
