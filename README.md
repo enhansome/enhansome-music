@@ -2,9 +2,9 @@
 
 A categorized collection of awesome music libraries, tools, frameworks and software.
 
-Contributions and suggestions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/ciconia/awesome-music/blob/master/CONTRIBUTING.md) ⭐ 2,546 | 🐛 63 | 📅 2026-05-27 first.
+Contributions and suggestions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/ciconia/awesome-music/blob/master/CONTRIBUTING.md) ⭐ 2,548 | 🐛 62 | 📅 2026-05-27 first.
 
-Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/contributors) ⭐ 2,546 | 🐛 63 | 📅 2026-05-27, you're awesome and this project wouldn't be possible without you!
+Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/contributors) ⭐ 2,548 | 🐛 62 | 📅 2026-05-27, you're awesome and this project wouldn't be possible without you!
 
 * [Awesome Music](#awesome-music)
   * [Audio Editing](#audio-editing)
@@ -21,8 +21,8 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Audio Editing
 
-* [Audacity](https://github.com/audacity/audacity) ⭐ 19,087 | 🐛 1,923 | 🌐 C++ | 📅 2026-11-16 - a free, cross-platform digital audio editor.
-* [OpenUtau](https://github.com/stakira/openutau/) ⭐ 4,595 | 🐛 167 | 🌐 C# | 📅 2026-11-16 - A free, cross-platform singing voice synthesis framework.
+* [Audacity](https://github.com/audacity/audacity) ⭐ 19,093 | 🐛 1,922 | 🌐 C++ | 📅 2026-11-17 - a free, cross-platform digital audio editor.
+* [OpenUtau](https://github.com/stakira/openutau/) ⭐ 4,603 | 🐛 165 | 🌐 C# | 📅 2026-11-16 - A free, cross-platform singing voice synthesis framework.
 * [Stargate DAW](https://github.com/stargatedaw/stargate/) ⭐ 887 | 🐛 19 | 🌐 Python | 📅 2025-04-21 - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 * [Ardour](http://ardour.org/) - a cross-platform digital audio workstation emphasizing audio recording.
 * [LMMS](https://lmms.io/) - another cross-platform digital audio workstation, more oriented towards making beats.
@@ -31,8 +31,8 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Audio Libraries
 
-* [howler.js](https://github.com/goldfire/howler.js) ⭐ 25,447 | 🐛 419 | 🌐 JavaScript | 📅 2025-11-23 - a Javascript audio library for the modern web.
-* [Librosa](https://github.com/librosa/librosa) ⭐ 8,987 | 🐛 48 | 🌐 Python | 📅 2026-11-16 - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
+* [howler.js](https://github.com/goldfire/howler.js) ⭐ 25,449 | 🐛 419 | 🌐 JavaScript | 📅 2025-11-23 - a Javascript audio library for the modern web.
+* [Librosa](https://github.com/librosa/librosa) ⭐ 8,998 | 🐛 49 | 🌐 Python | 📅 2026-11-17 - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 * [midi.js](https://github.com/mudcube/MIDI.js) ⭐ 3,926 | 🐛 141 | 🌐 JavaScript | 📅 2024-06-16 - a framework for creating web-based MIDI apps.
 * [audioFlux](https://github.com/libAudioFlux/audioFlux) ⭐ 3,385 | 🐛 16 | 🌐 C | 📅 2026-03-06 - A library for audio and music analysis, feature extraction.
 * [audio.js](https://github.com/kolber/audiojs) ⭐ 2,076 | 🐛 104 | 🌐 JavaScript | 📅 2018-09-25 - audio.js is a drop-in javascript library that allows HTML5's \<audio> tag to be used anywhere.
@@ -45,17 +45,17 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Audio Tools
 
-* [Koel](https://github.com/phanan/koel) ⭐ 17,352 | 🐛 16 | 🌐 PHP | 📅 2026-11-15 - an open-source personal audio streaming server.
-* [matchering](https://github.com/sergree/matchering) ⭐ 2,716 | 🐛 34 | 🌐 Python | 📅 2026-10-07 - сontainerized web application and library for automated reference audio mastering.
-* [fre:ac](https://github.com/enzo1982/freac) ⭐ 2,012 | 🐛 229 | 🌐 C++ | 📅 2026-10-25 - free audio converter. It supports audio CD ripping and tag editing.
+* [Koel](https://github.com/phanan/koel) ⭐ 17,353 | 🐛 16 | 🌐 PHP | 📅 2026-11-17 - an open-source personal audio streaming server.
+* [matchering](https://github.com/sergree/matchering) ⭐ 2,720 | 🐛 34 | 🌐 Python | 📅 2026-10-07 - сontainerized web application and library for automated reference audio mastering.
+* [fre:ac](https://github.com/enzo1982/freac) ⭐ 2,015 | 🐛 231 | 🌐 C++ | 📅 2026-11-17 - free audio converter. It supports audio CD ripping and tag editing.
 * [Whipper](https://github.com/JoeLametta/whipper) ⭐ 1,445 | 🐛 198 | 🌐 Python | 📅 2026-02-17 - Python CD-DA ripper preferring accuracy over speed.
-* [Kima](https://github.com/Chevron7Locked/kima-hub) ⭐ 1,293 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-08 - a self-hosted music streaming server with ML-powered audio analysis, vibe-based discovery, and Subsonic API support.
-* [Cecilia](https://github.com/belangeo/cecilia5) ⭐ 302 | 🐛 34 | 🌐 Python | 📅 2026-11-11 - a Pyo-based graphical environment for music and signal processing.
+* [Kima](https://github.com/Chevron7Locked/kima-hub) ⭐ 1,294 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-08 - a self-hosted music streaming server with ML-powered audio analysis, vibe-based discovery, and Subsonic API support.
+* [Cecilia](https://github.com/belangeo/cecilia5) ⭐ 305 | 🐛 34 | 🌐 Python | 📅 2026-11-11 - a Pyo-based graphical environment for music and signal processing.
 * [split2flac](https://github.com/ftrvxmtrx/split2flac) ⚠️ Archived - split flac/ape/wv/wav + cue sheet into separate tracks
-* [K3b](https://github.com/KDE/k3b) ⭐ 243 | 🐛 0 | 🌐 C++ | 📅 2026-11-16 - is a full-featured CD/DVD/Blu-ray burning and ripping application.
+* [K3b](https://github.com/KDE/k3b) ⭐ 245 | 🐛 0 | 🌐 C++ | 📅 2026-11-17 - is a full-featured CD/DVD/Blu-ray burning and ripping application.
 * [Rubyripper](https://github.com/bleskodev/rubyripper) ⭐ 141 | 🐛 89 | 🌐 Ruby | 📅 2026-01-02 - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
 * [lltag](https://github.com/bgoglin/lltag) ⭐ 39 | 🐛 5 | 🌐 Perl | 📅 2022-02-23 - automatic command-line mp3/ogg/flac file tagger and renamer.
-* [Jack](https://github.com/jack-cli-cd-ripper/jack) ⭐ 20 | 🐛 6 | 🌐 Python | 📅 2026-11-09 - command-line CD ripper.
+* [Jack](https://github.com/jack-cli-cd-ripper/jack) ⭐ 21 | 🐛 6 | 🌐 Python | 📅 2026-11-09 - command-line CD ripper.
 * [Auralytics](https://github.com/WengYiNing/Auralytics) ⭐ 19 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-03 - an open-source personal Spotify analytics tool.
 * [X Audio Copy](https://github.com/giorgiofranceschi/xaudiocopy) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2018-03-31 - GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.
 * [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
@@ -67,7 +67,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Free Music Scores
 
 * [Mutopia](https://github.com/MutopiaProject/MutopiaProject) ⭐ 318 | 🐛 76 | 🌐 LilyPond | 📅 2024-11-07 - sheet music based on editions in the public domain.
-* [cellist/Lilypond-Sheet-Music](https://github.com/cellist/Lilypond-Sheet-Music) ⭐ 164 | 🐛 1 | 🌐 LilyPond | 📅 2026-11-09 - a collection of music typeset with lilypond (mostly chamber music and music for cello).
+* [cellist/Lilypond-Sheet-Music](https://github.com/cellist/Lilypond-Sheet-Music) ⭐ 164 | 🐛 1 | 🌐 LilyPond | 📅 2026-11-17 - a collection of music typeset with lilypond (mostly chamber music and music for cello).
 * [wbsoft/lilymusic](https://github.com/wbsoft/lilymusic) ⭐ 80 | 🐛 1 | 🌐 LilyPond | 📅 2022-06-05 - beautiful LilyPond scores under free licenses.
 * [Éditions Nicolas Sceaux](https://github.com/nsceaux/nenuvar) ⭐ 55 | 🐛 7 | 🌐 LilyPond | 📅 2022-03-04 - baroque music scores (mainly French music), typeset using lilypond.
 * [Lavender Blue Open-Scores](https://github.com/madrisan/open-scores) ⭐ 35 | 🐛 4 | 🌐 LilyPond | 📅 2026-11-11 - open scores for piano encoded using lilypond.
@@ -80,7 +80,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 * [mido](https://github.com/mido/mido) ⭐ 1,663 | 🐛 138 | 🌐 Python | 📅 2026-11-09 - Python library for working with MIDI messages and ports.
 * [JJazzLab](https://github.com/jjazzboss/JJazzLab) ⭐ 616 | 🐛 35 | 🌐 Java | 📅 2026-11-02 - a complete Midi-based framework for automatic backing tracks generation.
-* [Midimonster](https://github.com/cbdevnet/midimonster) ⭐ 608 | 🐛 52 | 🌐 C | 📅 2024-06-24 - universal control and translation tool for most show control protocols.
+* [Midimonster](https://github.com/cbdevnet/midimonster) ⭐ 609 | 🐛 52 | 🌐 C | 📅 2024-06-24 - universal control and translation tool for most show control protocols.
 * [Polyrhythmix](http://github.com/dredozubov/polyrhythmix) ⭐ 312 | 🐛 0 | 🌐 Rust | 📅 2023-07-25 - MIDI drums
   generator, designed for polyrhythmic parts
 * [Gingoduino](https://github.com/sauloverissimo/gingoduino) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-06-06 - music theory engine for embedded systems with MIDI 1.0/2.0 UMP support.
@@ -91,12 +91,12 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Music Notation
 
-* [MuseScore](https://github.com/musescore/MuseScore) ⭐ 15,432 | 🐛 4,464 | 🌐 C++ | 📅 2026-11-16 - free open-source music notation and composition software.
+* [MuseScore](https://github.com/musescore/MuseScore) ⭐ 15,435 | 🐛 4,454 | 🌐 C++ | 📅 2026-11-17 - free open-source music notation and composition software.
 * [Vexflow](https://github.com/0xfe/vexflow) ⭐ 4,405 | 🐛 53 | 🌐 TypeScript | 📅 2025-03-05 - a JavaScript library for rendering music notation and guitar tablature.
-* [OpenSheetMusicDisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) ⭐ 2,019 | 🐛 53 | 🌐 TypeScript | 📅 2026-11-15 - Typescript library for rendering MusicXML in the browser.
-* [LibMEI](https://github.com/rism-digital/verovio/tree/develop/libmei) ⭐ 979 | 🐛 204 | 🌐 C++ | 📅 2026-11-16 - a C++ library for reading and writing MEI files.
-* [Verovio](https://github.com/rism-ch/verovio) ⭐ 979 | 🐛 204 | 🌐 C++ | 📅 2026-11-16 - a library and a toolkit for engraving MEI music notation into SVG.
-* [Frescobaldi](https://github.com/wbsoft/frescobaldi) ⭐ 962 | 🐛 473 | 🌐 Python | 📅 2026-11-16 - a free Lilypond sheet music editor.
+* [OpenSheetMusicDisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) ⭐ 2,020 | 🐛 53 | 🌐 TypeScript | 📅 2026-11-15 - Typescript library for rendering MusicXML in the browser.
+* [LibMEI](https://github.com/rism-digital/verovio/tree/develop/libmei) ⭐ 979 | 🐛 202 | 🌐 C++ | 📅 2026-11-17 - a C++ library for reading and writing MEI files.
+* [Verovio](https://github.com/rism-ch/verovio) ⭐ 979 | 🐛 202 | 🌐 C++ | 📅 2026-11-17 - a library and a toolkit for engraving MEI music notation into SVG.
+* [Frescobaldi](https://github.com/wbsoft/frescobaldi) ⭐ 962 | 🐛 472 | 🌐 Python | 📅 2026-11-17 - a free Lilypond sheet music editor.
 * [Inknote](https://github.com/MichalPaszkiewicz/inknote) ⭐ 156 | 🐛 1 | 🌐 JavaScript | 📅 2016-07-02 - free, open source, browser based music notation and composition software.
 * [OpenLilyLib](https://github.com/openlilylib/snippets/) ⭐ 132 | 🐛 30 | 🌐 LilyPond | 📅 2023-04-30 - LilyPond tools - snippets, templates, and extensions.
 * [MusicKit](https://github.com/venturemedia/musickit) ⭐ 112 | 🐛 7 | 🌐 Objective-C++ | 📅 2019-05-16 - Music sheet rendering for iOS and OSX.
@@ -139,7 +139,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Midica](https://github.com/truj/midica) ⭐ 136 | 🐛 4 | 🌐 Java | 📅 2025-12-08 - MIDI programming language with decompiler and player, supports karaoke.
 * [Cane](https://github.com/Jackojc/cane) ⚠️ Archived - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
 * [slippery chicken](https://github.com/mdedwards/slippery-chicken) ⭐ 82 | 🐛 12 | 🌐 Common Lisp | 📅 2026-11-12 - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
-* [DrumBeatRepo](https://github.com/babali42/drumbeatrepo) ⭐ 33 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-14 - A rhythm library for playing drum beats of differents music genres in the browser.
+* [DrumBeatRepo](https://github.com/babali42/drumbeatrepo) ⭐ 33 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-16 - A rhythm library for playing drum beats of differents music genres in the browser.
 * [Leiter](https://github.com/kad1kad/leiter) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-14 - TypeScript-based library designed to generate musical scales.
 * [Bach: Automated Composer's Helper](http://www.bachproject.net/) - a cross-platform set of patches and externals for Max, aimed to bring the richness of computer-aided composition into the real-time world.
 * [Common Music](http://commonmusic.sourceforge.net/) - an open source music composition system.
@@ -181,17 +181,17 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Related lists
 
-* [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,114 | 🐛 30 | 🌐 Shell | 📅 2026-08-13 - A curated list about Audio Visualization.
-* [Awesome Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,725 | 🐛 42 | 📅 2026-09-11 - A curated list of python software and packages related to scientific research in audio.
-* [Awesome Music Production](https://github.com/adius/awesome-music-production) ⭐ 1,561 | 🐛 18 | 📅 2026-11-08 - A curated list of software and resources to create music.
-* [Awesome Audio DSP](https://github.com/BillyDM/awesome-audio-dsp) ⭐ 1,473 | 🐛 0 | 📅 2026-10-08 - A curated list of audio DSP and plugin development resources.
+* [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,115 | 🐛 30 | 🌐 Shell | 📅 2026-08-13 - A curated list about Audio Visualization.
+* [Awesome Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,725 | 🐛 41 | 📅 2026-09-11 - A curated list of python software and packages related to scientific research in audio.
+* [Awesome Music Production](https://github.com/adius/awesome-music-production) ⭐ 1,563 | 🐛 18 | 📅 2026-11-08 - A curated list of software and resources to create music.
+* [Awesome Audio DSP](https://github.com/BillyDM/awesome-audio-dsp) ⭐ 1,477 | 🐛 0 | 📅 2026-10-08 - A curated list of audio DSP and plugin development resources.
 * [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio) ⭐ 1,407 | 🐛 30 | 📅 2026-10-26 - A curated list of awesome WebAudio packages and resources.
 * [Awesome sheet music](https://github.com/adius/awesome-sheet-music) ⭐ 1,046 | 🐛 5 | 📅 2026-11-02 - A curated list of awesome sheet music software, libraries and resources.
-* [Awesome AI Music Generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) ⭐ 509 | 🐛 40 | 📅 2026-09-04 - A curated list of AI music generation tools and resources.
+* [Awesome AI Music Generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) ⭐ 510 | 🐛 40 | 📅 2026-09-04 - A curated list of AI music generation tools and resources.
 * [Awesome Music Listening](https://github.com/ybayle/awesome-music-listening) ⭐ 168 | 🐛 10 | 📅 2025-10-14 - Awesome list of websites dedicated to listening to music.
-* [Awesome Music Programming](https://github.com/zoejane/awesome-music-programming) ⭐ 164 | 🐛 1 | 📅 2026-11-15 - A curated collection of music programming languages, libraries, frameworks and tools.
+* [Awesome Music Programming](https://github.com/zoejane/awesome-music-programming) ⭐ 165 | 🐛 1 | 📅 2026-11-15 - A curated collection of music programming languages, libraries, frameworks and tools.
 
-Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 537,922 | 🐛 104 | 📅 2026-09-02 list.
+Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,417 | 🐛 104 | 📅 2026-09-02 list.
 
 ## License
 
@@ -201,4 +201,4 @@ To the extent possible under law, [Sharon Rosner](http://github.com/ciconia) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
